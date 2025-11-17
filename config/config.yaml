@@ -1,58 +1,91 @@
 ############################################################
 # TrendRadar 配置 - 专业科技媒体版（国内 + 国外权威源）
-# 适合：电子科技卖家 / AI 科技关注者 / 游戏掌机卖家
 ############################################################
+
+app:
+  version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
+  show_version_update: true
+
+crawler:
+  request_interval: 1000
+  enable_crawler: true
+  use_proxy: false
+  default_proxy: "http://127.0.0.1:10086"
 
 log_level: INFO
 timeout: 15
-enable_crawler: true
 timezone: "Asia/Shanghai"
 
 ############################################################
-# 推送模式（推荐 incremental：只推新增，极干净）
+# 推送模式（推荐 incremental）
 ############################################################
+
 report:
-  mode: "incremental"   # 可选：daily | current | incremental
+  mode: "incremental"
   rank_threshold: 5
 
-############################################################
-# 内容输出控制
-############################################################
-max_items_per_source: 40
-max_frequency_items: 25
-show_source_icon: true
-output_path: "output"
+notification:
+  enable_notification: true
+  message_batch_size: 4000
+  dingtalk_batch_size: 20000
+  feishu_batch_size: 29000
+  batch_send_interval: 3
+
+  push_window:
+    enabled: false
+    time_range:
+      start: "20:00"
+      end: "22:00"
+    once_per_day: true
+    push_record_retention_days: 7
+
+  webhooks:
+    feishu_url: ""
+    dingtalk_url: ""
+    wework_url: ""
+    telegram_bot_token: ""
+    telegram_chat_id: ""
+    email_from: ""
+    email_password: ""
+    email_to: ""
+    email_smtp_server: ""
+    email_smtp_port: ""
+    ntfy_server_url: "https://ntfy.sh"
+    ntfy_topic: ""
+    ntfy_token: ""
 
 ############################################################
 # 🔥 数据源（只保留国内外最权威科技媒体）
 ############################################################
+
 sources:
   # —— 国内科技媒体（权威、专业） ——
-  - ithome                # IT之家（电子科技最权威）
-  - 36kr                  # 科技商业
-  - huxiu                 # 虎嗅
-  - sspai                 # 少数派（深度测评）
-  - cls                   # 财联社（供应链、芯片一手）
-  - wsyjw                 # 华尔街见闻（科技 & 公司层面）
-  - qqnews                # 腾讯新闻-科技频道
-  - ifeng                 # 凤凰科技
+  - ithome
+  - 36kr
+  - huxiu
+  - sspai
+  - cls
+  - wsyjw
+  - qqnews
+  - ifeng
 
-  # —— 海外科技媒体（掌机 + AI + 电子产品一手） ——
-  - techcrunch            # TechCrunch（全球科技）
-  - theverge              # The Verge（消费电子一手）
-  - engadget              # Engadget（掌机/AR/苹果）
-  - wired                 # Wired（深度科技）
-  - ars                   # Ars Technica（硬件/VR/AI）
-  - tomsguide             # TomsGuide（掌机/手机/评测）
-  - polygon               # Polygon（游戏/掌机/主机）
-  - gamespot              # GameSpot（游戏生态）
-  - ign                   # IGN（掌机/游戏主机）
-  - hackernews            # Hacker News（AI/开发者趋势）
-  - bloomberg_tech        # 彭博科技（权威商业科技）
+  # —— 海外科技媒体（掌机 + AI + 科技） ——
+  - techcrunch
+  - theverge
+  - engadget
+  - wired
+  - ars
+  - tomsguide
+  - polygon
+  - gamespot
+  - ign
+  - hackernews
+  - bloomberg_tech
 
 ############################################################
-# 热点排序（针对科技新闻优化）
+# 热点排序优化
 ############################################################
+
 ranking:
   weight_views: 0.35
   weight_comments: 0.25
@@ -62,8 +95,9 @@ ranking:
 recency_half_life_hours: 18
 
 ############################################################
-# 推送设置
+# 推送内容控制
 ############################################################
+
 push:
   enable_grouping: true
   include_keyword_hits: true
@@ -83,4 +117,3 @@ language_filter:
 title_min_length: 6
 title_max_length: 150
 content_min_length: 20
-
