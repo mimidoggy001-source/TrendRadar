@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 比亚迪英国销量突破 5 万辆，10 月单月销售近 3500 辆 [URL:https://www.ithome.com/0/898/229.htm]
+2. 曲线扩产：消息称闪迪寻求与力积电就 NAND 闪存制造展开合作 [URL:https://www.ithome.com/0/898/228.htm]
+3. 三个月暴涨超 3 倍：三星 16GB DDR5 内存价格在韩国失控 [URL:https://www.ithome.com/0/898/226.htm]
+4. 闲鱼线下循环商店加速落地：武汉、苏州、无锡首店相继开业，年内覆盖 6 省 9 城 [URL:https://www.ithome.com/0/898/225.htm]
+5. 零跑 A10 海苔绿、橡果棕外观公布，11 月 21 日广州车展全球首秀 [URL:https://www.ithome.com/0/898/224.htm]
+6. 《尼尔》制作人横尾太郎打破沉默：不是我懒，是游戏项目都被砍了 [URL:https://www.ithome.com/0/898/221.htm]
+7. 酷态科三体联名充电宝亮相：基于 10 号超级电能棒打造，水滴图案 [URL:https://www.ithome.com/0/898/214.htm]
+8. MONTECH 推出 NX600 风冷散热器：双塔双风扇，六热管铜底 [URL:https://www.ithome.com/0/898/213.htm]
+9. PS4 模拟器 ShadPS4 发布 0.12.6 版，《血源诅咒》游戏部分场景帧率翻倍 [URL:https://www.ithome.com/0/898/212.htm]
+10. 星河动力智神星一号火箭主发动机完成深度变推力试车，突破多项关键技术 [URL:https://www.ithome.com/0/898/210.htm]
+11. 预售 1449 元，华为 FreeBuds Pro 5 悦彰耳机完整规格公布 [URL:https://www.ithome.com/0/898/209.htm]
+12. 我国首个采用冷却塔的“华龙一号”核电站正式开建 [URL:https://www.ithome.com/0/898/208.htm]
+13. 一加李杰透露 Ace 6T 搭载 8 开头大电池 + 100W 快充，将会是唯一一款 [URL:https://www.ithome.com/0/898/207.htm]
+14. DRAM 现货价年涨 170% 催生魔幻操作，有分销商要求内存和主板 1:1 搭售 [URL:https://www.ithome.com/0/898/206.htm]
+15. 哈曼 Ready Display 车用显示屏率先获得 HDR10+ Automotive 认证 [URL:https://www.ithome.com/0/898/205.htm]
+16. 被历史雪藏的芯片先驱：世界首款微处理器 MP944 揭秘，比英特尔 4004 早 1 年问世 [URL:https://www.ithome.com/0/898/204.htm]
+17. 飞傲 CD 随身听 DM15 R2R 上市：模拟传统音色、HiFi 级 USB 声卡，1699 元 [URL:https://www.ithome.com/0/898/202.htm]
+18. 华为：FreeBuds Pro 5 星闪音频目前仅支持 Mate 80 系列、Mate X7，FreeClip 2 后续 OTA 升级 [URL:https://www.ithome.com/0/898/200.htm]
+19. 理想辅助驾驶新消息来了，2025 广州车展智能发布会 11 月 21 日举行 [URL:https://www.ithome.com/0/898/199.htm]
+20. 报告称高昂 3nm 工艺成本拖累台积电美国业务，2025Q3 利润环比降幅 99% [URL:https://www.ithome.com/0/898/198.htm]
+21. GSMA 大中华区总裁斯寒：预计到 2030 年，6G 将在部分国家和地区率先启动部署 [URL:https://www.ithome.com/0/898/197.htm]
+22. 零跑与一汽首个海外车型合作项目已落地，预计明年量产 [URL:https://www.ithome.com/0/898/196.htm]
+23. TrendForce 预估：2026 年晶圆代工、集成电路设计产值均将增长两成 [URL:https://www.ithome.com/0/898/195.htm]
+24. 全球首次人形机器人跨省行走，智元远征 A2 挑战吉尼斯世界纪录 [URL:https://www.ithome.com/0/898/193.htm]
+25. 专为“线撕”优化，酷冷至尊推出 MasterLiquid PL TR5-SP6 水冷 [URL:https://www.ithome.com/0/898/192.htm]
+26. 微软高管暗示 Win11 官方优化工具 PowerToys 有望集成“屏幕补光灯”功能 [URL:https://www.ithome.com/0/898/190.htm]
+27. 小米端到端辅助驾驶“Xiaomi HAD 增强版”广州车展发布，11 月 21 日见 [URL:https://www.ithome.com/0/898/189.htm]
+28. 4499 元华硕 Pro WS B850M-ACE SE 工作站主板上市：10+2.5G 双网口，支持锐龙及 EPYC Embedded 4005 系列 CPU [URL:https://www.ithome.com/0/898/188.htm]
+29. 微软 Win11 RP 预览版 26100.7296 和 26200.7296 更新发布，文件资源管理器深色更统一 [URL:https://www.ithome.com/0/898/187.htm]
+30. 微软亮剑智能办公：解决“知行不一”难题，让 AI 替你干活、老板还夸你效率高 [URL:https://www.ithome.com/0/898/186.htm]
+
+hackernews | Hacker News
+1. Core Devices keeps stealing our work [URL:https://news.ycombinator.com/item?id=45960893]
+2. Compiling Ruby to machine language [URL:https://news.ycombinator.com/item?id=45957629]
+3. Show HN: I built a synth for my daughter [URL:https://news.ycombinator.com/item?id=45900425]
+4. The marriage proposal that's hidden in two 1990s PlayStation games [URL:https://news.ycombinator.com/item?id=45916094]
+5. Azure hit by 15 Tbps DDoS attack using 500k IP addresses [URL:https://news.ycombinator.com/item?id=45955900]
+6. My stages of learning to be a socially normal person [URL:https://news.ycombinator.com/item?id=45937302]
+7. Project Gemini [URL:https://news.ycombinator.com/item?id=45954640]
+8. Run ancient UNIX on modern hardware [URL:https://news.ycombinator.com/item?id=45958717]
+9. Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files [URL:https://news.ycombinator.com/item?id=45959780]
+10. Show HN: Reversing a Cinema Camera's Peripherals Port [URL:https://news.ycombinator.com/item?id=45888805]
+11. “One Student One Chip” Course Homepage [URL:https://news.ycombinator.com/item?id=45901379]
+12. Astrophotographer snaps skydiver falling in front of the sun [URL:https://news.ycombinator.com/item?id=45944158]
+13. FreeMDU: Open-source Miele appliance diagnostic tools [URL:https://news.ycombinator.com/item?id=45953452]
+14. Show HN: Continuous Claude – run Claude Code in a loop [URL:https://news.ycombinator.com/item?id=45938517]
+15. Windows 11 adds AI agent that runs in background with access to personal folders [URL:https://news.ycombinator.com/item?id=45959795]
+16. WeatherNext 2: Our most advanced weather forecasting model [URL:https://news.ycombinator.com/item?id=45954210]
+17. Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis [URL:https://news.ycombinator.com/item?id=45953977]
+18. Temporal Dithering of NeoPixels on an ATtiny412 [URL:https://news.ycombinator.com/item?id=45909525]
+19. Ion: Modern System Shell in Rust [URL:https://news.ycombinator.com/item?id=45958815]
+20. Aldous Huxley predicts Adderall and champions alternative therapies [URL:https://news.ycombinator.com/item?id=45954140]
+21. How when AWS was down, we were not [URL:https://news.ycombinator.com/item?id=45955565]
+22. I caught Google Gemini using my data and then covering it up [URL:https://news.ycombinator.com/item?id=45960293]
+23. A new book about the origins of Effective Altruism [URL:https://news.ycombinator.com/item?id=45955889]
+24. Raccoons are showing early signs of domestication [URL:https://news.ycombinator.com/item?id=45930438]
+25. How to escape the Linux networking stack [URL:https://news.ycombinator.com/item?id=45954638]
+26. Where do the children play? [URL:https://news.ycombinator.com/item?id=45945114]
+27. Rebecca Heineman has died [URL:https://news.ycombinator.com/item?id=45960368]
+28. The time has finally come for geothermal energy [URL:https://news.ycombinator.com/item?id=45953568]
+29. Jeff Bezos creates A.I. startup where he will be co-chief executive [URL:https://news.ycombinator.com/item?id=45953883]
+30. Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo) [URL:https://news.ycombinator.com/item?id=45957402]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
