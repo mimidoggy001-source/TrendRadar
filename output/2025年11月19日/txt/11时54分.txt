@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 谷歌 Gemini 3.0 Pro 模型发布即登顶 LMArena，奥尔特曼、马斯克齐送贺电 [URL:https://www.ithome.com/0/898/513.htm]
+2. 莲花 Emeya 刷新电动车充电纪录：10% 充至 80% 仅需 13 分钟 35 秒 [URL:https://www.ithome.com/0/898/512.htm]
+3. Keychron 推出镁合金“洞洞鼠”M3 mini 8K 金属版，原相 PAW3950 [URL:https://www.ithome.com/0/898/511.htm]
+4. 蔚来智驾芯片首次技术外供，曝“神玑 NX9031”已启动技术对外授权 [URL:https://www.ithome.com/0/898/510.htm]
+5. 马斯克公开表态：愿意合作通过 Grok AI 帮助苹果升级 Siri [URL:https://www.ithome.com/0/898/509.htm]
+6. 华为 Mate X7 折叠屏手机全系配色公布，最高 16GB+1TB 典藏版 [URL:https://www.ithome.com/0/898/508.htm]
+7. 比亚迪官宣仰望 U7 豪华轿车全新“旭光橙”内饰配色，11 月 21 日亮相 [URL:https://www.ithome.com/0/898/505.htm]
+8. 时速 580 公里！民间工程师父子打造全球最快无人机，刷新吉尼斯纪录 [URL:https://www.ithome.com/0/898/503.htm]
+9. 捕捉“幽灵粒子”：江门中微子实验首个重大成果发布，测量精度创新高 [URL:https://www.ithome.com/0/898/502.htm]
+10. PlayStation 官宣黑五促销活动，美区 PS5 全系机型直降 100 美元 [URL:https://www.ithome.com/0/898/501.htm]
+11. 我国第二次青藏科考发布十大应用成果，首次提出青藏高原“第三次环境转型” [URL:https://www.ithome.com/0/898/500.htm]
+12. 解决当众蓝屏的尴尬：微软宣布推出“数字标牌模式”，Windows 将在死机后 15 秒内自动熄屏 [URL:https://www.ithome.com/0/898/499.htm]
+13. 微软 Azure 新一代处理器 Cobalt 200 亮相：132 核 Arm V3，台积电 3nm [URL:https://www.ithome.com/0/898/498.htm]
+14. 首款鸿蒙二合一平板华为 MatePad Edge 配置爆料：PC 级麒麟 9 芯片、14.2 英寸柔光屏 [URL:https://www.ithome.com/0/898/497.htm]
+15. Take-Two CEO 指出：游戏行业的未来在 PC，但主机体验不会消亡 [URL:https://www.ithome.com/0/898/495.htm]
+16. 北京航空航天大学等 7 所高校首次增设“具身智能”新专业 [URL:https://www.ithome.com/0/898/494.htm]
+17. 为赖掉 2.5 亿美元奖金，《深海迷航》游戏母公司 Krafton CEO 被曝求助 ChatGPT [URL:https://www.ithome.com/0/898/493.htm]
+18. 何刚公布华为 Mate 80 系列机型拍摄样张 [URL:https://www.ithome.com/0/898/492.htm]
+19. Keychron 发布三款 Q HE 8K 键盘新品：结合 TMR 磁轴与 8000Hz 回报率 [URL:https://www.ithome.com/0/898/491.htm]
+20. PassMark 数据更新：英特尔酷睿 Ultra X7 358H 多核性能较前代高 4% [URL:https://www.ithome.com/0/898/490.htm]
+21. 广汽：全国率先获批时速 120 公里 L3 高速测试牌照，基于华为深度合作打造的首款旗舰轿车昊铂 A800 [URL:https://www.ithome.com/0/898/489.htm]
+22. 酷态科太空系列三体联名版 10 号超级电能棒 Mini、6 号氮化镓充电器发布 [URL:https://www.ithome.com/0/898/488.htm]
+23. 国家能源局：截至 10 月底，我国电动汽车充电基础设施总数达 1864.5 万个 [URL:https://www.ithome.com/0/898/487.htm]
+24. 13322 MT/s！DDR5 内存超频纪录再次被刷新 [URL:https://www.ithome.com/0/898/485.htm]
+25. 16999 元，佳能 EOS R6 Mark Ⅲ 相机宣布提前至 11 月 21 日在中国市场开售 [URL:https://www.ithome.com/0/898/484.htm]
+26. 华为 Mate X7 折叠屏手机今日开启预订：第二代红枫影像，有望首发麒麟 9030 [URL:https://www.ithome.com/0/898/483.htm]
+27. Cloudflare 首席技术官就全球故障致歉：我们辜负了客户和更广泛的互联网 [URL:https://www.ithome.com/0/898/482.htm]
+28. 《古墓丽影》动画第二季公布新预告，12 月 11 日 Netflix 开播 [URL:https://www.ithome.com/0/898/481.htm]
+29. 3D 打印机新品拓竹 H2C 发布：一次打印 7 色成型，14999 元起 [URL:https://www.ithome.com/0/898/480.htm]
+30. EA 宣布不推出《F1 26》，转而为《F1 25》提供付费扩展更新 [URL:https://www.ithome.com/0/898/479.htm]
+
+hackernews | Hacker News
+1. Cloudflare outage on November 18, 2025 post mortem [URL:https://news.ycombinator.com/item?id=45973709]
+2. Gemini 3 [URL:https://news.ycombinator.com/item?id=45967211]
+3. Google Antigravity [URL:https://news.ycombinator.com/item?id=45967814]
+4. Pebble, Rebble, and a path forward [URL:https://news.ycombinator.com/item?id=45969250]
+5. Blender 5.0 [URL:https://news.ycombinator.com/item?id=45972519]
+6. Show HN: Browser-based interactive 3D Three-Body problem simulator [URL:https://news.ycombinator.com/item?id=45967079]
+7. The code and open-source tools I used to produce a science fiction anthology [URL:https://news.ycombinator.com/item?id=45968121]
+8. Gemini 3 Pro Model Card [pdf] [URL:https://news.ycombinator.com/item?id=45963670]
+9. Rebecca Heineman – from homelessness to porting Doom (2022) [URL:https://news.ycombinator.com/item?id=45973573]
+10. Lucent 7 R/E 5ESS Telephone Switch Rescue (2024) [URL:https://news.ycombinator.com/item?id=45973955]
+11. Cloudflare Global Network experiencing issues [URL:https://news.ycombinator.com/item?id=45963780]
+12. Better pre-commit, re-engineered in Rust [URL:https://news.ycombinator.com/item?id=45931273]
+13. I am stepping down as the CEO of Mastodon [URL:https://news.ycombinator.com/item?id=45969909]
+14. GitHub: Git operation failures [URL:https://news.ycombinator.com/item?id=45971726]
+15. OrthoRoute – GPU-accelerated autorouting for KiCad [URL:https://news.ycombinator.com/item?id=45970391]
+16. Fizz Buzz without conditionals or booleans [URL:https://news.ycombinator.com/item?id=45911897]
+17. What I learned about creativity from a man painting on a treadmill (2024) [URL:https://news.ycombinator.com/item?id=45926141]
+18. Show HN: RowboatX – open-source Claude Code for everyday automations [URL:https://news.ycombinator.com/item?id=45970338]
+19. Bild AI (YC W25) is hiring – Make housing affordable [URL:https://news.ycombinator.com/item?id=45972390]
+20. Solving a million-step LLM task with zero errors [URL:https://news.ycombinator.com/item?id=45968362]
+21. DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor [URL:https://news.ycombinator.com/item?id=45975006]
+22. Monotype font licencing shake-down [URL:https://news.ycombinator.com/item?id=45973261]
+23. Google boss says AI investment boom has 'elements of irrationality' [URL:https://news.ycombinator.com/item?id=45961886]
+24. Nearly all UK drivers say headlights are too bright [URL:https://news.ycombinator.com/item?id=45966251]
+25. Microsoft-backed Veir is bringing superconductors to data centers [URL:https://news.ycombinator.com/item?id=45922823]
+26. Mysterious holes in the Andes may have been an ancient marketplace [URL:https://news.ycombinator.com/item?id=45900238]
+27. Short Little Difficult Books [URL:https://news.ycombinator.com/item?id=45966435]
+28. Show HN: A subtly obvious e-paper room air monitor [URL:https://news.ycombinator.com/item?id=45962266]
+29. Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark [URL:https://news.ycombinator.com/item?id=45970519]
+30. Show HN: Guts – convert Golang types to TypeScript [URL:https://news.ycombinator.com/item?id=45969708]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
