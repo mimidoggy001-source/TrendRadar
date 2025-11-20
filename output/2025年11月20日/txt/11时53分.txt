@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 偷油又偷税，央视曝光问题加油站作弊“花招” [URL:https://www.ithome.com/0/898/789.htm]
+2. 魏建军称电动车专属底盘全是谎言，长城将推全动力平台 [URL:https://www.ithome.com/0/898/788.htm]
+3. 谷歌 AI 搜索再进化：生成交互界面，让你秒懂复杂问题 [URL:https://www.ithome.com/0/898/786.htm]
+4. 联想 CEO 杨元庆：明年 1 月 6 日推出个人超级智能体 [URL:https://www.ithome.com/0/898/784.htm]
+5. Windows Server 2025 用户反馈微软 10 月更新导致 PWA 应用失效 [URL:https://www.ithome.com/0/898/783.htm]
+6. 黑鲨磁吸无线充散热器上架：25W 无线快充、TEC 半导体制冷，首销 209 元 [URL:https://www.ithome.com/0/898/782.htm]
+7. 小米拿出 2937 万股奖励员工及供应商，总价值 11.4 亿港元 [URL:https://www.ithome.com/0/898/780.htm]
+8. 成立 11 周年之际，微软悄然改版 Windows Insider 官网 [URL:https://www.ithome.com/0/898/779.htm]
+9. 小米汽车第 50 万辆整车正式下线 [URL:https://www.ithome.com/0/898/778.htm]
+10. 高铁票买到 01F 座位实为行李架，官方回应称系车型临时变更 [URL:https://www.ithome.com/0/898/777.htm]
+11. OPPO ColorOS 16 官宣首次月度更新：内容传送门、AI 同传支持声音克隆等 [URL:https://www.ithome.com/0/898/776.htm]
+12. 《星际公民》游戏 Alpha 4.4 更新上线，第三星系 Nyx 正式开放 [URL:https://www.ithome.com/0/898/774.htm]
+13. 消息称 4Rank DDR5 CUDIMM 内存条将 JEDEC 标准化，简称 CQDIMM [URL:https://www.ithome.com/0/898/773.htm]
+14. 一加 Ace 6T 手机支持 IP66/IP68/IP69/IP69K 满级防尘防水，标配 3D 超声波指纹 [URL:https://www.ithome.com/0/898/771.htm]
+15. 微软官方指南出错，Win11 安全启动证书更新两个关键代码被写反 [URL:https://www.ithome.com/0/898/770.htm]
+16. 广汽丰田销售副总彭宝林：“将停产多款主销油车”为不实消息 [URL:https://www.ithome.com/0/898/768.htm]
+17. 奇瑞 iCAR V27 明日开启中国首秀，定位智能硬派大五座 SUV [URL:https://www.ithome.com/0/898/767.htm]
+18. 比亚迪法务部：“王悟空说车”侵权被判公开道歉并赔偿 31.38 万元 [URL:https://www.ithome.com/0/898/766.htm]
+19. 微软 Win11 下月将恢复 Win10 经典“日历议程”视图，集成 AI 助手 [URL:https://www.ithome.com/0/898/764.htm]
+20. 八位堂推出透明黑配色 Ultimate 2C Wireless 手柄 [URL:https://www.ithome.com/0/898/763.htm]
+21. 苹果第 12 代 iPad 被曝加量不加价：A18 芯片，首次拥抱 AI、支持 Wi-Fi 7 [URL:https://www.ithome.com/0/898/762.htm]
+22. 消息称某厂第五代骁龙 8 至尊版超大杯新机搭载双 2 亿三摄方案，预计为 vivo X300 Ultra [URL:https://www.ithome.com/0/898/761.htm]
+23. 高通：骁龙 X2 Elite 处理器兼容超 90% 的常见 Windows 游戏，GPU 性能是上一代的 2.3 倍 [URL:https://www.ithome.com/0/898/760.htm]
+24. Noctua 猫头鹰：无计划推出白色产品 [URL:https://www.ithome.com/0/898/759.htm]
+25. 微软 AI CEO Mustafa Suleyman 称：“听到有人说 AI 平庸，我就想笑” [URL:https://www.ithome.com/0/898/758.htm]
+26. 华为 Mate 80 系列手机官宣首发户外探索模式：14 天“极限续航” [URL:https://www.ithome.com/0/898/757.htm]
+27. 蚂蚁集团开源 Awex 框架，秒级完成 TB 级参数交换 [URL:https://www.ithome.com/0/898/755.htm]
+28. 英伟达黄仁勋：Blackwell 芯片销量火爆，我们也还有很多可以拿来卖 [URL:https://www.ithome.com/0/898/754.htm]
+29. 微软 CEO 纳德拉拟彻底重塑公司商业模式，为此特意任命“AI 经济学顾问” [URL:https://www.ithome.com/0/898/743.htm]
+30. AMD 锐龙 AI HX 470 处理器现身 SiSoftware，频率 5.25GHz [URL:https://www.ithome.com/0/898/753.htm]
+
+hackernews | Hacker News
+1. Verifying your Matrix devices is becoming mandatory [URL:https://news.ycombinator.com/item?id=45987179]
+2. Loose wire leads to blackout, contact with Francis Scott Key bridge [URL:https://news.ycombinator.com/item?id=45984659]
+3. Researchers discover security vulnerability in WhatsApp [URL:https://news.ycombinator.com/item?id=45985036]
+4. Europe is scaling back GDPR and relaxing AI laws [URL:https://news.ycombinator.com/item?id=45980117]
+5. Meta Segment Anything Model 3 [URL:https://news.ycombinator.com/item?id=45982073]
+6. Building more with GPT-5.1-Codex-Max [URL:https://news.ycombinator.com/item?id=45982649]
+7. Precise geolocation via Wi-Fi Positioning System [URL:https://news.ycombinator.com/item?id=45985867]
+8. Workday to acquire Pipedream [URL:https://news.ycombinator.com/item?id=45987220]
+9. What really happened with the CIA and The Paris Review? [URL:https://news.ycombinator.com/item?id=45888759]
+10. Robert Louis Stevenson's Art of Living (and Dying) [URL:https://news.ycombinator.com/item?id=45984282]
+11. Launch HN: Mosaic (YC W25) – Agentic Video Editing [URL:https://news.ycombinator.com/item?id=45980760]
+12. Measuring the impact of AI scams on the elderly [URL:https://news.ycombinator.com/item?id=45987252]
+13. How Slide Rules Work [URL:https://news.ycombinator.com/item?id=45985196]
+14. Three Hapsburgs and a Reporter Walk into a Canadian Vault [URL:https://news.ycombinator.com/item?id=45959586]
+15. What Influence Has the BBC Had on History? [URL:https://news.ycombinator.com/item?id=45958596]
+16. AI is a front for consolidation of resources and power [URL:https://news.ycombinator.com/item?id=45983700]
+17. Larry Summers resigns from OpenAI board [URL:https://news.ycombinator.com/item?id=45979190]
+18. Gaming on Linux has never been more approachable [URL:https://news.ycombinator.com/item?id=45985506]
+19. Thunderbird adds native Microsoft Exchange email support [URL:https://news.ycombinator.com/item?id=45978423]
+20. Blame as a Service [URL:https://news.ycombinator.com/item?id=45897057]
+21. Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu [URL:https://news.ycombinator.com/item?id=45982162]
+22. The patent office is about to make bad patents untouchable [URL:https://news.ycombinator.com/item?id=45985890]
+23. Vortex: An extensible, state of the art columnar file format [URL:https://news.ycombinator.com/item?id=45934665]
+24. CornHub [URL:https://news.ycombinator.com/item?id=45986940]
+25. Racing karts on a Rust GPU kernel driver [URL:https://news.ycombinator.com/item?id=45984623]
+26. Microsoft AI CEO pushes back against critics after recent Windows AI backlash [URL:https://news.ycombinator.com/item?id=45984970]
+27. Branching with or Without PII: The Future of Environments [URL:https://news.ycombinator.com/item?id=45896776]
+28. Measuring political bias in Claude [URL:https://news.ycombinator.com/item?id=45984112]
+29. How to stay sane in a world that rewards insanity [URL:https://news.ycombinator.com/item?id=45980106]
+30. Why CUDA translation wont unlock AMD [URL:https://news.ycombinator.com/item?id=45904178]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
