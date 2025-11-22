@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 世界最大跨度四主缆悬索桥，湖北燕矶长江大桥今日合龙 [URL:https://www.ithome.com/0/899/367.htm]
+2. AI 需求太猛，SK 海力士 DRAM 产能计划到 2026 年暴增超 8 倍 [URL:https://www.ithome.com/0/899/366.htm]
+3. 打破国外长期垄断，中科飞测首台晶圆平坦度测量设备出货 HBM 客户端 [URL:https://www.ithome.com/0/899/365.htm]
+4. 华尔街警告：AI 行业债务风险升级，系统性危机恐一触即发 [URL:https://www.ithome.com/0/899/364.htm]
+5. 全球最大“华龙一号”核电基地 2 号机组并网发电 [URL:https://www.ithome.com/0/899/362.htm]
+6. 华为乾崑 App 发布：支持远控功能与数字钥匙，满足基本用车需求 [URL:https://www.ithome.com/0/899/361.htm]
+7. 算力大战升级：AMD MI400 系列浮出水面，高性能计算与 AI 双线并进 [URL:https://www.ithome.com/0/899/360.htm]
+8. 吉利第三代豪越 L 车型预售 9.39 万元起：Flyme Auto 智能座舱，11 月 27 日上市 [URL:https://www.ithome.com/0/899/359.htm]
+9. 陈立武坦言英特尔错失重大机遇，未来发展瞄准全球 AI 供应链核心 [URL:https://www.ithome.com/0/899/358.htm]
+10. 快过 ChatGPT，蚂蚁灵光 AI 助手上线 4 天下载突破 100 万 [URL:https://www.ithome.com/0/899/356.htm]
+11. 请立即更新：微软 Win10/Win11 被披露安全漏洞，可提权访问你的隐私数据 [URL:https://www.ithome.com/0/899/355.htm]
+12. 歌尔股份：与英伟达合作开发 AR 眼镜专用芯片传闻不属实 [URL:https://www.ithome.com/0/899/354.htm]
+13. 微软发布 Win11 Beta / Dev 26220.7271 预览版：扩展 Xbox 全屏体验、简化文件管理器右键菜单等 [URL:https://www.ithome.com/0/899/353.htm]
+14. 荣耀 MagicOS 公布 11 月升级一览：一句话点外卖新增支持饿了么，火车出行接入灵动胶囊等 [URL:https://www.ithome.com/0/899/352.htm]
+15. 全德汽车俱乐部报告：特斯拉 Model Y 缺陷率 17.3% 垫底，十年来最差表现 [URL:https://www.ithome.com/0/899/350.htm]
+16. 酷比魔方掌玩 mini 新品预告：5G 全网通 LCD 小平板，明年 1 月见 [URL:https://www.ithome.com/0/899/349.htm]
+17. 华为、中国电信助力机械导盲犬：能够准确识别行人，实时规划路径 [URL:https://www.ithome.com/0/899/347.htm]
+18. 微软发布 Win11 25H2 紧急更新 KB5072753，修复“无限安装循环”BUG [URL:https://www.ithome.com/0/899/346.htm]
+19. 继北京、南京之后，小米武汉青年公寓计划明年中竣工 [URL:https://www.ithome.com/0/899/345.htm]
+20. 全球首个 LED 隔空供电技术问世：5 米内稳定传输，未来有望一束光给全屋充电 [URL:https://www.ithome.com/0/899/344.htm]
+21. 40 年长青：微软称全球近 10 亿用户信赖 Win11 [URL:https://www.ithome.com/0/899/343.htm]
+22. 消息称美国载人登月任务延至 2028 年，12 次“太空加油”成最大挑战 [URL:https://www.ithome.com/0/899/341.htm]
+23. 微软 Win11 记事本 11.2510.6.0 版现原生支持表格功能 [URL:https://www.ithome.com/0/899/340.htm]
+24. 科技昨夜今晨 1122：曝华为 Mate 70 激活超 885 万；美的回应要求售后停止小米格力业务；豆包输入法正式版上线... [URL:https://www.ithome.com/0/899/339.htm]
+25. 谷歌再向苹果 iPhone 发起营销攻势：Pixel 才是创新的源头 [URL:https://www.ithome.com/0/899/338.htm]
+26. 2026 款苹果 iPad Air 前瞻：M4、N1、C1X 芯片，支持 Wi-Fi 7 [URL:https://www.ithome.com/0/899/337.htm]
+27. 苹果新研究：AI 不听录音，凭文本描述能零样本识别洗碗等 12 种活动 [URL:https://www.ithome.com/0/899/336.htm]
+28. 微软测试 Win11 系统新 AI 体验：文件一键分析，文本随心改写 [URL:https://www.ithome.com/0/899/335.htm]
+29. 微软承认 Win11 文件管理器启动慢，将通过后台预加载实现秒开响应 [URL:https://www.ithome.com/0/899/334.htm]
+30. 今日小雪：雨凝为雪，地气冻结 [URL:https://www.ithome.com/0/899/333.htm]
+
+hackernews | Hacker News
+1. Microsoft Will Preload Windows 11 File Explorer to Fix Bad Performance [URL:https://news.ycombinator.com/item?id=46011569]
+2. Personal blogs are back, should niche blogs be next? [URL:https://news.ycombinator.com/item?id=46009894]
+3. Helping Valve to power up Steam devices [URL:https://news.ycombinator.com/item?id=46006616]
+4. Samsung's 60% DRAM price hike signals a new phase of global memory tightening [URL:https://news.ycombinator.com/item?id=45934619]
+5. Arduino Terms of Service and Privacy Policy update: setting the record straight [URL:https://news.ycombinator.com/item?id=46009056]
+6. Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker [URL:https://news.ycombinator.com/item?id=46006016]
+7. Childhood Friends, Not Moms, Shape Attachment Styles Most [URL:https://news.ycombinator.com/item?id=45927520]
+8. How I learned Vulkan and wrote a small game engine with it (2024) [URL:https://news.ycombinator.com/item?id=46010329]
+9. LAPD helicopter tracker with real-time operating costs [URL:https://news.ycombinator.com/item?id=46009591]
+10. The death of tech idealism and rise of the homeless in Northern California [URL:https://news.ycombinator.com/item?id=46011521]
+11. Self-hosting a NAT Gateway [URL:https://news.ycombinator.com/item?id=45955824]
+12. Pixar: The Early Days A never-before-seen 1996 interview [URL:https://news.ycombinator.com/item?id=46008769]
+13. We should all be using dependency cooldowns [URL:https://news.ycombinator.com/item?id=46005111]
+14. Sharper MRI scans may be on horizon thanks to new physics-based model [URL:https://news.ycombinator.com/item?id=46010806]
+15. You can make PS2 games in JavaScript [URL:https://news.ycombinator.com/item?id=46006082]
+16. Discontinuation of ARM Notebook with Snapdragon X Elite SoC [URL:https://news.ycombinator.com/item?id=46008156]
+17. Is Matrix Multiplication Ugly? [URL:https://news.ycombinator.com/item?id=46009660]
+18. When functions dissolve (2020) [URL:https://news.ycombinator.com/item?id=45941493]
+19. The Strange Afterlife of Hilma af Klint, Painting’s Posthumous Star [URL:https://news.ycombinator.com/item?id=45952925]
+20. Prozac 'no better than placebo' for treating children with depression, experts [URL:https://news.ycombinator.com/item?id=45999622]
+21. 3D printing with unconventional vase mode [URL:https://news.ycombinator.com/item?id=46010173]
+22. Building a Durable Execution Engine with SQLite [URL:https://news.ycombinator.com/item?id=45992316]
+23. Shop Sans is a typeface for curved text paths [URL:https://news.ycombinator.com/item?id=45901499]
+24. Solving Fizz Buzz with Cosines [URL:https://news.ycombinator.com/item?id=46006598]
+25. RRules (yes handling RSCALE) using only PL/pgSQL [URL:https://news.ycombinator.com/item?id=45915339]
+26. Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer [URL:https://news.ycombinator.com/item?id=46006250]
+27. Olmo 3: Charting a path through the model flow to lead open-source AI [URL:https://news.ycombinator.com/item?id=46001889]
+28. FAWK: LLMs can write a language interpreter [URL:https://news.ycombinator.com/item?id=46003144]
+29. Homeschooling hits record numbers [URL:https://news.ycombinator.com/item?id=45999842]
+30. Infinibay LXD Container [URL:https://news.ycombinator.com/item?id=46011351]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
