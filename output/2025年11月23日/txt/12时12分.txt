@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 巧克力换电批量运营：宁德时代 × 上汽商用车达成深度战略合作 [URL:https://www.ithome.com/0/899/526.htm]
+2. 中国铁塔：累计建设基站项目超 700 万，在 320 个城市部署了 8 万多个换电柜 [URL:https://www.ithome.com/0/899/525.htm]
+3. 真我 GT7 Pro 系列陆续推送 realme UI 7.0 正式版，其他机型处提速收尾阶段 [URL:https://www.ithome.com/0/899/524.htm]
+4. 何小鹏现身广州车展小米、乐道展台：中国智能汽车需要更多优秀的伙伴一起努力 [URL:https://www.ithome.com/0/899/523.htm]
+5. GSMA 称 6G 网络所需中频段频谱是当前 3 倍，呼吁各国立即行动 [URL:https://www.ithome.com/0/899/522.htm]
+6. 华为 WATCH Ultimate 2 智能手表通过星闪认证，11 月 25 日发布 [URL:https://www.ithome.com/0/899/521.htm]
+7. 英特尔推出触摸书写优化套件，延迟降低至 50 毫秒左右 [URL:https://www.ithome.com/0/899/519.htm]
+8. 与广汽联合打造启境汽车，华为靳玉志爆料双方团队曾出现激烈争执 [URL:https://www.ithome.com/0/899/518.htm]
+9. 荣耀 Magic7 RSR 保时捷设计手机将获影像升级，罗巍透露“快了” [URL:https://www.ithome.com/0/899/517.htm]
+10. 小鹏 G7 官方改色上新“宠粉色”，AI 辅助生成海报 [URL:https://www.ithome.com/0/899/516.htm]
+11. 阿里旗下菜鸟实现 100% 控股跨境物流商“递四方” [URL:https://www.ithome.com/0/899/514.htm]
+12. 一加中国区总裁李杰汇总 Ace 6T 爆料，真机“周一见” [URL:https://www.ithome.com/0/899/513.htm]
+13. 小米公司发言人澄清“小米汽车工厂内电池产线起火”相关谣言 [URL:https://www.ithome.com/0/899/512.htm]
+14. 开放麒麟 openKylin 首个 RISC-V RVA23 版本发布 [URL:https://www.ithome.com/0/899/510.htm]
+15. 微信鸿蒙版 App 公众号推送流灰度更新，列表显示变更为图文卡片模式 [URL:https://www.ithome.com/0/899/509.htm]
+16. 我国自研 F 级重型燃机首次迈出国门，出口哈萨克斯坦 [URL:https://www.ithome.com/0/899/508.htm]
+17. 世界最快过山车、法拉利博物馆等落户北京城市副中心，总投资近百亿元 [URL:https://www.ithome.com/0/899/507.htm]
+18. 我国实现纤维素全碳素利用合成淀粉，真实转化率飙升至 93.3% [URL:https://www.ithome.com/0/899/506.htm]
+19. 东风 × 华为深度合作首款品牌，奕境在松山湖举办首次招商大会 [URL:https://www.ithome.com/0/899/505.htm]
+20. 上汽集团：尚界后续产品的开发工作正在按计划推进中 [URL:https://www.ithome.com/0/899/504.htm]
+21. 我国“新舟”60 西南增雨机完成首次飞行，转入科研试飞阶段 [URL:https://www.ithome.com/0/899/502.htm]
+22. X 平台（推特）开始显示“账号所在地”，私信功能重做 [URL:https://www.ithome.com/0/899/501.htm]
+23. 雷神发布首台国产芯电竞主机黑武士・猎刃 Pro，搭载海光 C86 新一代处理器 [URL:https://www.ithome.com/0/899/499.htm]
+24. 无人机管理平台遭黑客攻击致数据泄露，企业被依法追责 [URL:https://www.ithome.com/0/899/498.htm]
+25. 小米汽车：1000 万 Clip 版本发布以来，辅助驾驶活跃占比 90% [URL:https://www.ithome.com/0/899/497.htm]
+26. 防误删：华为鸿蒙 HarmonyOS 6.0.0.112 再添新特性，卸载微信可保留应用本地数据 [URL:https://www.ithome.com/0/899/496.htm]
+27. 航空宇航学院更名为星际航行学院，中国科学院大学回应 [URL:https://www.ithome.com/0/899/495.htm]
+28. 一加 Ace 6T 手机确认支持《王者荣耀》144FPS 模式 [URL:https://www.ithome.com/0/899/494.htm]
+29. 央视起底“豪车碰瓷”特大骗保案：专挑货车 SUV 下手，涉案金额超 1 亿元 [URL:https://www.ithome.com/0/899/493.htm]
+30. 科技昨夜今晨 1123：视觉中国被摄影师起诉案宣判后公开致歉；华为乾崑 App 发布；《哪吒 2》不参评奥斯卡最佳动画长片... [URL:https://www.ithome.com/0/899/492.htm]
+
+hackernews | Hacker News
+1. GCC SC approves inclusion of Algol 68 Front End [URL:https://news.ycombinator.com/item?id=46020151]
+2. A monopoly ISP refuses to fix upstream infrastructure [URL:https://news.ycombinator.com/item?id=46019685]
+3. NTSB report: Decryption of images from the Titan submersible camera [pdf] [URL:https://news.ycombinator.com/item?id=46019636]
+4. WorldGen – Text to Immersive 3D Worlds [URL:https://news.ycombinator.com/item?id=46018380]
+5. We Induced Smells With Ultrasound [URL:https://news.ycombinator.com/item?id=46008332]
+6. The privacy nightmare of browser fingerprinting [URL:https://news.ycombinator.com/item?id=46016249]
+7. Meta buried 'causal' evidence of social media harm, US court filings allege [URL:https://news.ycombinator.com/item?id=46019817]
+8. Show HN: Forty.News – Daily news, but on a 40-year delay [URL:https://news.ycombinator.com/item?id=46017175]
+9. Unusual circuits in the Intel 386's standard cell logic [URL:https://news.ycombinator.com/item?id=46020543]
+10. How to Spot a Counterfeit Lithium-Ion Battery [URL:https://news.ycombinator.com/item?id=46019168]
+11. An Economy of AI Agents [URL:https://news.ycombinator.com/item?id=46020096]
+12. $1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux [URL:https://news.ycombinator.com/item?id=45940980]
+13. TIL: `satisfies` is my favorite TypeScript keyword [URL:https://news.ycombinator.com/item?id=45968310]
+14. The Boring Part of Bell Labs [URL:https://news.ycombinator.com/item?id=45984173]
+15. Pixel Art Tips for Programmers [URL:https://news.ycombinator.com/item?id=46004326]
+16. A Year Without Caffeine (2013) [URL:https://news.ycombinator.com/item?id=46019714]
+17. Windows ARM64 Internals: Deconstructing Pointer Authentication [URL:https://news.ycombinator.com/item?id=46018664]
+18. A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture [URL:https://news.ycombinator.com/item?id=46018158]
+19. Tektronix equipment has been used in many movies and shows [URL:https://news.ycombinator.com/item?id=45950594]
+20. China reaches energy milestone by "breeding" uranium from thorium [URL:https://news.ycombinator.com/item?id=46016639]
+21. Garibaldi, History's Sexiest Revolutionary? [URL:https://news.ycombinator.com/item?id=45941775]
+22. Germany to classify date rape drugs as weapons to ensure justice for survivors [URL:https://news.ycombinator.com/item?id=46019760]
+23. Kids who own smartphones before age 13 have worse mental health outcomes: Study [URL:https://news.ycombinator.com/item?id=46018292]
+24. Show HN: I built a wizard to turn ideas into AI coding agent-ready specs [URL:https://news.ycombinator.com/item?id=46018229]
+25. Agent design is still hard [URL:https://news.ycombinator.com/item?id=46013935]
+26. Depot (YC W23) Is Hiring a Staff Infrastructure Engineer [URL:https://news.ycombinator.com/item?id=46016799]
+27. Digital echoes: open bus behavior on the compact Macintosh [URL:https://news.ycombinator.com/item?id=45950686]
+28. Gwern's "Stem Humor" Directory [URL:https://news.ycombinator.com/item?id=46016630]
+29. Show HN: A tool to safely migrate GitHub Actions workflows to Ubuntu-slim runner [URL:https://news.ycombinator.com/item?id=45936564]
+30. SimpleMMO – How I made a hole a home (2021) [URL:https://news.ycombinator.com/item?id=45961308]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
