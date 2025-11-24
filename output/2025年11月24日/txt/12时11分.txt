@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 3D 打印厂商拓竹：新一轮融资消息不实 [URL:https://www.ithome.com/0/899/708.htm]
+2. 英国 DragonFire 激光武器精准击落 650 km/h 高速无人机，单次发射成本 10 英镑 [URL:https://www.ithome.com/0/899/707.htm]
+3. 智元发布灵心平台，可个性化定制机器人声音、性格、人设、记忆 [URL:https://www.ithome.com/0/899/706.htm]
+4. 极越汽车：App 离线及车辆远程控制功能已全部恢复正常 [URL:https://www.ithome.com/0/899/703.htm]
+5. 致敬 Xbox 360，NACON 发布 REVOLUTION X UNLIMITED 周年纪念版带屏手柄 [URL:https://www.ithome.com/0/899/702.htm]
+6. 小米澎湃 OS 3 十一月升级汇总：超级小爱随心修图上线，更多应用接入超级岛 [URL:https://www.ithome.com/0/899/701.htm]
+7. 社区悬赏 2000 美元，一个月修复联想笔记本 Linux 音频问题 [URL:https://www.ithome.com/0/899/699.htm]
+8. 消息称华为 Mate 80 Pro Max / RS 独享新一代超透亮灵珑屏，双层 OLED [URL:https://www.ithome.com/0/899/698.htm]
+9. 一加 Ace 6T 手机外观细节公布：全新升级快捷键，丝绸玻璃、旗舰玻纤材质 [URL:https://www.ithome.com/0/899/697.htm]
+10. 特斯拉中国：Model Y 长续航全轮驱动版预计交付日期更新为 8-13 周 [URL:https://www.ithome.com/0/899/695.htm]
+11. 亿纬锂能拟与 SK On 进行股权置换，进一步强化资源整合 [URL:https://www.ithome.com/0/899/693.htm]
+12. IPv5 去哪了？“史前版远程会议”协议，被技术进步淘汰 [URL:https://www.ithome.com/0/899/692.htm]
+13. 达特茅斯学院开发新型 AI 工具：可伪装人类完成问卷，还能破解 99.8% 检测 [URL:https://www.ithome.com/0/899/691.htm]
+14. 比亚迪仰望汽车全系 OTA 升级，U8L 新增平行横移功能 [URL:https://www.ithome.com/0/899/690.htm]
+15. 华为 Mate 80 Pro Max 手机官宣搭载全金属玄武架构 [URL:https://www.ithome.com/0/899/688.htm]
+16. 美的将推“表情包”空调：内置 60+ 种表情，支持远程 DIY [URL:https://www.ithome.com/0/899/687.htm]
+17. 放大 130 倍：“全球首款商用微处理器” Intel 4004 巨型复刻版亮相 [URL:https://www.ithome.com/0/899/686.htm]
+18. 比亚迪与美的达成战略合作：车上控家电，家里能管车 [URL:https://www.ithome.com/0/899/685.htm]
+19. 香港将向月球进发，2028 年前后发射“月闪”探测器 [URL:https://www.ithome.com/0/899/684.htm]
+20. 欧洲首款 HBM 内存数据中心推理处理器 VSORA Jotunn8 流片，台积电 5nm 制程 [URL:https://www.ithome.com/0/899/683.htm]
+21. 美的集团董事长方洪波成为仰望 U8L 车主，比亚迪王传福亲自交车 [URL:https://www.ithome.com/0/899/682.htm]
+22. AI 浪潮下的存储连锁反应，大容量 microSD 卡成最新抢手货 [URL:https://www.ithome.com/0/899/681.htm]
+23. “国民车”回归，全新奇瑞 QQ3 明年一季度上市 [URL:https://www.ithome.com/0/899/678.htm]
+24. 联发科天玑座舱芯片 P1 Ultra 发布：4nm 制程，首批搭载车型即将上市 [URL:https://www.ithome.com/0/899/676.htm]
+25. 谷歌推出 Material 3 全新菜单设计：更圆润、更灵动 [URL:https://www.ithome.com/0/899/675.htm]
+26. 消息称 Marvell 美满、联发科考虑为 ASIC 项目导入英特尔 EMIB 先进封装 [URL:https://www.ithome.com/0/899/674.htm]
+27. 英特尔 Diamond Rapids 至强 CPU 曝光：功耗狂飙 650W，16 通道内存 + 18A 工艺 [URL:https://www.ithome.com/0/899/673.htm]
+28. 面条厂里造“三无飞机”，山东邹平成立联合调查组 [URL:https://www.ithome.com/0/899/672.htm]
+29. 一加 Ace 6T 手机三款配色公布：165Hz 高刷屏，全球首发第五代骁龙 8 [URL:https://www.ithome.com/0/899/671.htm]
+30. CXL 4.0 规范发布：基于 PCIe 7.0，速度较上代再次翻倍 [URL:https://www.ithome.com/0/899/670.htm]
+
+hackernews | Hacker News
+1. We stopped roadmap work for a week and fixed 189 bugs [URL:https://news.ycombinator.com/item?id=46029772]
+2. Fran Sans – font inspired by San Francisco light rail displays [URL:https://news.ycombinator.com/item?id=46025942]
+3. B-Trees: Why Every Database Uses Them [URL:https://news.ycombinator.com/item?id=46029765]
+4. RuBee [URL:https://news.ycombinator.com/item?id=46029932]
+5. Native Secure Enclave backed SSH keys on macOS [URL:https://news.ycombinator.com/item?id=46025721]
+6. New magnetic component discovered in the Faraday effect after nearly 2 centuries [URL:https://news.ycombinator.com/item?id=45985008]
+7. Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4 [URL:https://news.ycombinator.com/item?id=46029649]
+8. The Cloudflare outage was a good thing [URL:https://news.ycombinator.com/item?id=46029908]
+9. µcad: New open source programming language that can generate 2D sketches and 3D [URL:https://news.ycombinator.com/item?id=46027216]
+10. Ask HN: Hearing aid wearers, what's hot? [URL:https://news.ycombinator.com/item?id=46029699]
+11. The Rust Performance Book [URL:https://news.ycombinator.com/item?id=45977386]
+12. Show HN: I wrote a minimal memory allocator in C [URL:https://news.ycombinator.com/item?id=46027962]
+13. Calculus for Mathematicians, Computer Scientists, and Physicists [pdf] [URL:https://news.ycombinator.com/item?id=46024773]
+14. A desktop app for isolated, parallel agentic development [URL:https://news.ycombinator.com/item?id=46027947]
+15. Shaders: How to draw high fidelity graphics with just x and y coordinates [URL:https://news.ycombinator.com/item?id=46023013]
+16. Racket v9.0 [URL:https://news.ycombinator.com/item?id=46023460]
+17. Liva AI (YC S25) Is Hiring [URL:https://news.ycombinator.com/item?id=46028046]
+18. Iowa City made its buses free. Traffic cleared, and so did the air [URL:https://news.ycombinator.com/item?id=46027833]
+19. Show HN: Gitlogue – A terminal tool that replays your Git commits with animation [URL:https://news.ycombinator.com/item?id=45964956]
+20. Mount Proton Drive on Linux using rclone and systemd [URL:https://news.ycombinator.com/item?id=46024584]
+21. Particle Life – Sandbox Science [URL:https://news.ycombinator.com/item?id=46027722]
+22. Band of Holes [URL:https://news.ycombinator.com/item?id=45976666]
+23. A time-travelling door bug in Half Life 2 [URL:https://news.ycombinator.com/item?id=46009962]
+24. After my dad died, we found the love letters [URL:https://news.ycombinator.com/item?id=46021825]
+25. Sunsetting Supermaven [URL:https://news.ycombinator.com/item?id=46028033]
+26. A ncurses-based command line torrent client for high performance [URL:https://news.ycombinator.com/item?id=46029312]
+27. MCP Apps: Extending servers with interactive user interfaces [URL:https://news.ycombinator.com/item?id=46020502]
+28. Terence Tao: At the Erdos problem website, AI assistance now becoming routine [URL:https://news.ycombinator.com/item?id=46017972]
+29. An Economy of AI Agents [URL:https://news.ycombinator.com/item?id=46020096]
+30. A Unified Theory of Ego, Empathy, and Humility at Work [URL:https://news.ycombinator.com/item?id=46029534]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
