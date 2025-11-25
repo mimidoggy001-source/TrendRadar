@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 《幻兽帕鲁》游戏 1.0 正式版官宣明年发布，“心归之所”大型更新下月到来 [URL:https://www.ithome.com/0/899/993.htm]
+2. TCL 华星将在武汉建设印刷 OLED 中试验证平台项目，产能扩充 2 倍 [URL:https://www.ithome.com/0/899/992.htm]
+3. 399 元小米智能中控屏开售：内置 Mesh 2.0 网关，支持触屏、语音、远程操控 [URL:https://www.ithome.com/0/899/991.htm]
+4. 全新小鹏 P7 专属车标免费从 18K 金升级为 24K 金 [URL:https://www.ithome.com/0/899/989.htm]
+5. AOC 推出 HDR1000 认证 Mini LED Fast VA 显示器 Q27G4SMN，27" QHD 300Hz [URL:https://www.ithome.com/0/899/988.htm]
+6. 小米 Tag 及 eSIM 智能手表新品确认，有望随小米 17 Ultra 一同发布 [URL:https://www.ithome.com/0/899/987.htm]
+7. 波音载人航天计划遇挫，星际客机 2026 年 Starliner-1 任务降级为纯货运 [URL:https://www.ithome.com/0/899/986.htm]
+8. 我国神舟二十二号飞船官宣今日 12 时 11 分实施发射 [URL:https://www.ithome.com/0/899/985.htm]
+9. 消息称 Meta 正就为自有数据中心导入 TPU AI 芯片与谷歌洽谈 [URL:https://www.ithome.com/0/899/984.htm]
+10. 华为智慧屏新品 MateTV Max 今日预售，110 英寸 64999 元 [URL:https://www.ithome.com/0/899/981.htm]
+11. 全新“Aluminium OS”曝光：Android、ChromeOS 合体，谷歌统一桌面平台计划加速落实 [URL:https://www.ithome.com/0/899/980.htm]
+12. 德国 Mindfactory 平台第 47 周数据：AMD 处理器销量是英特尔 10 倍多 [URL:https://www.ithome.com/0/899/979.htm]
+13. 马斯克承认其他车企不想获得特斯拉 FSD 授权：他们简直疯了 [URL:https://www.ithome.com/0/899/977.htm]
+14. 国产凌空天行驭空戟-1000 高超声速导弹发布：最远 1300 公里射程、5-7 马赫速度 [URL:https://www.ithome.com/0/899/976.htm]
+15. 消息称台积电拟在中国台湾地区加建 3 座 2nm 工艺先进制程晶圆厂 [URL:https://www.ithome.com/0/899/975.htm]
+16. 贵州即将实现“市市通高铁”，盘兴高铁 11 月 28 日正式通车 [URL:https://www.ithome.com/0/899/973.htm]
+17. 新手也能快速上手：安田文彦称《仁王 3》游戏难度曲线更平滑，且保留高挑战性 [URL:https://www.ithome.com/0/899/972.htm]
+18. “史上最严”充电宝安全标准曝光：3C 认证全面失效，强制配备屏幕或联网 App [URL:https://www.ithome.com/0/899/971.htm]
+19. 《半衰期 3》游戏玩法、引擎、武器等海量细节曝光 [URL:https://www.ithome.com/0/899/968.htm]
+20. 《CS2》布达佩斯 Major 第一阶段首日：LVG、RA 均落入 0-2 组 [URL:https://www.ithome.com/0/899/967.htm]
+21. Adobe Photoshop 谷歌 Chrome 扩展上线，支持浏览器内直接编辑图片 [URL:https://www.ithome.com/0/899/964.htm]
+22. 白色双风扇，丽台推出 WinFast RTX 5060 HURRICANE 8GB 显卡 [URL:https://www.ithome.com/0/899/962.htm]
+23. 有线索表明三星新加坡 X 账号通过苹果 iPhone 运营 [URL:https://www.ithome.com/0/899/961.htm]
+24. 免费上门提速宽带需警惕，警方起底“黑盒子”诈骗套路 [URL:https://www.ithome.com/0/899/960.htm]
+25. Steam 黑五促销活动上线：数千款游戏特价销售，多款大作迎史低 [URL:https://www.ithome.com/0/899/958.htm]
+26. 日本 CIO 推出半固态电池移动电源 SMARTCOBY SLIM Ⅱ Wireless2.0 SS5K [URL:https://www.ithome.com/0/899/957.htm]
+27. 警惕！新攻击伪装成 Win11 更新，藏在 PNG 图片中投毒黑掉你的电脑 [URL:https://www.ithome.com/0/899/956.htm]
+28. Adobe Premiere Pro 剪辑软件 25.6 版本更新原生支持尼康 N-RAW 格式 [URL:https://www.ithome.com/0/899/955.htm]
+29. 首款星闪音频耳机：华为 FreeBuds Pro 5 悦彰耳机开售，到手价 1449 元 [URL:https://www.ithome.com/0/899/954.htm]
+30. 2888 元华为 WATCH D2 新增星云蓝配色：动态血压监测，一键微体检 [URL:https://www.ithome.com/0/899/953.htm]
+
+hackernews | Hacker News
+1. Pebble Watch software is now 100% open source [URL:https://news.ycombinator.com/item?id=46037626]
+2. Unpowered SSDs slowly lose data [URL:https://news.ycombinator.com/item?id=46038099]
+3. Claude Advanced Tool Use [URL:https://news.ycombinator.com/item?id=46038047]
+4. Cool-retro-term: terminal emulator which mimics look and feel of CRTs [URL:https://news.ycombinator.com/item?id=46036895]
+5. Show HN: I built an interactive HN Simulator [URL:https://news.ycombinator.com/item?id=46036908]
+6. Claude Opus 4.5 [URL:https://news.ycombinator.com/item?id=46037637]
+7. Three Years from GPT-3 to Gemini 3 [URL:https://news.ycombinator.com/item?id=46019898]
+8. Build a Compiler in Five Projects [URL:https://news.ycombinator.com/item?id=46031220]
+9. Random lasers from peanut kernel doped with birch leaf–derived carbon dots [URL:https://news.ycombinator.com/item?id=45981568]
+10. Show HN: OCR Arena – A playground for OCR models [URL:https://news.ycombinator.com/item?id=46006104]
+11. Moving from OpenBSD to FreeBSD for firewalls [URL:https://news.ycombinator.com/item?id=45980474]
+12. What OpenAI did when ChatGPT users lost touch with reality [URL:https://news.ycombinator.com/item?id=46030799]
+13. The Bitter Lesson of LLM Extensions [URL:https://news.ycombinator.com/item?id=46037343]
+14. Show HN: Hypercamera – a browser-based 4D camera simulator [URL:https://news.ycombinator.com/item?id=45979520]
+15. Google's new 'Aluminium OS' project brings Android to PC [URL:https://news.ycombinator.com/item?id=46037591]
+16. Chrome Jpegxl Issue Reopened [URL:https://news.ycombinator.com/item?id=46033330]
+17. Shai-Hulud Returns: Over 300 NPM Packages Infected [URL:https://news.ycombinator.com/item?id=46032539]
+18. PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage [URL:https://news.ycombinator.com/item?id=46038143]
+19. How sea turtles learn locations using Earth’s magnetic field: research [URL:https://news.ycombinator.com/item?id=46010466]
+20. Mind-reading devices can now predict preconscious thoughts [URL:https://news.ycombinator.com/item?id=46037267]
+21. Fifty Shades of OOP [URL:https://news.ycombinator.com/item?id=46032148]
+22. A fast EDN (Extensible Data Notation) reader written in C11 with SIMD boost [URL:https://news.ycombinator.com/item?id=46032230]
+23. Using Antigravity for Statistical Physics in JavaScript [URL:https://news.ycombinator.com/item?id=46010540]
+24. Building the largest known Kubernetes cluster [URL:https://news.ycombinator.com/item?id=46006891]
+25. Bytes before FLOPS: your algorithm is (mostly) fine, your data isn't [URL:https://news.ycombinator.com/item?id=46024402]
+26. Inside Rust's std and parking_lot mutexes – who wins? [URL:https://news.ycombinator.com/item?id=45989284]
+27. You can see a working Quantum Computer in IBM's London office [URL:https://news.ycombinator.com/item?id=46014685]
+28. Corvus Robotics (YC S18): Hiring Head of Mfg/Ops, Next Door to YC Mountain View [URL:https://news.ycombinator.com/item?id=46036222]
+29. TSMC Arizona outage saw fab halt, Apple wafers scrapped [URL:https://news.ycombinator.com/item?id=46037324]
+30. The history of Indian science fiction [URL:https://news.ycombinator.com/item?id=46013478]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
