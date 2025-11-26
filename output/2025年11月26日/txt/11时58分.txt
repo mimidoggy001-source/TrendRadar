@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 年轻人的第一辆“豪车”：绿源获宝马集团技术授权，将推电动两三轮车、电动滑板车 [URL:https://www.ithome.com/0/900/333.htm]
+2. Rapidus：有关 1.4nm 芯片工厂的报道纯属猜测 [URL:https://www.ithome.com/0/900/332.htm]
+3. 5 个月倒计时：MySQL 8.0 明年停止支持，全球约 58% 实例仍运行该版本 [URL:https://www.ithome.com/0/900/331.htm]
+4. 雷克沙发布行业首款 AI Storage Core：支持热插拔的新型 PCIe 总线存储卡 [URL:https://www.ithome.com/0/900/324.htm]
+5. 路虎“最强卫士”Dakar D7X-R 亮相，即将出战达喀尔拉力赛 [URL:https://www.ithome.com/0/900/323.htm]
+6. Win11 学院：如何在 Windows 11 26220.7271 预览版上启用 Xbox 全屏模式 [URL:https://www.ithome.com/0/900/322.htm]
+7. 10 家航空公司被约谈：要求整改“锁座”，取消付费或变相付费选座模式 [URL:https://www.ithome.com/0/900/320.htm]
+8. 中国在开源 AI 模型市场首超美国，与 OpenAI 之“封闭”形成鲜明对比 [URL:https://www.ithome.com/0/900/319.htm]
+9. 消息称原极氪汽车首席品牌官关海涛重返荣耀，主要负责海外市场 [URL:https://www.ithome.com/0/900/318.htm]
+10. 10 万次 Claude 真实对话洞察，AI 平均可缩短工作任务时间约 80% [URL:https://www.ithome.com/0/900/317.htm]
+11. 特斯拉陶琳否认“供应链去中国化”：质量与成本才是核心考量，Model 3/Y 超 95% 零件都产自中国 [URL:https://www.ithome.com/0/900/316.htm]
+12. 鑫谷数智 DM 电源新增白金转换效率版本，首发 850W 型号 [URL:https://www.ithome.com/0/900/315.htm]
+13. 宝马有望重返增程车型市场，消息称 7 系、X5 将首吃螃蟹 [URL:https://www.ithome.com/0/900/313.htm]
+14. 微软承认 Win11 经典版 Outlook 出现搜索故障、连接 Exchange 邮箱失败 [URL:https://www.ithome.com/0/900/311.htm]
+15. 荣耀 Magic8 Ultra 入网？爆料唯一 120W + 7K + 双 3D + 双卫星 + 等深超大杯 [URL:https://www.ithome.com/0/900/307.htm]
+16. 法拉第未来 FX Super One 宣布明日全球首次交付，车主为足球巨星安德烈斯・伊涅斯塔 [URL:https://www.ithome.com/0/900/306.htm]
+17. 软银完成对 Arm 指令集服务器处理器企业 Ampere Computing 收购 [URL:https://www.ithome.com/0/900/305.htm]
+18. 上海芯上微装首台 350nm 步进光刻机宣布发运，国产高端光刻家族再添新成员 [URL:https://www.ithome.com/0/900/303.htm]
+19. 佳明 Garmin 无屏幕健康手环曝光：极简设计、24 小时全天候监测 [URL:https://www.ithome.com/0/900/302.htm]
+20. 格力电器股东大会董明珠已“少说话”，渠道变革让终端经销商直接与总部对接 [URL:https://www.ithome.com/0/900/301.htm]
+21. 工信部：截至 10 月末，三家基础电信企业及中国广电移动电话用户总数达 18.3 亿户 [URL:https://www.ithome.com/0/900/299.htm]
+22. 神舟二十三号 1 名航天员将开展 1 年以上长期驻留试验，梦舟一号将首次采用长征十号甲运载火箭发射 [URL:https://www.ithome.com/0/900/298.htm]
+23. Win11 预览版设置喜提“应用更新”，未来更新可以不用打开微软应用商店 [URL:https://www.ithome.com/0/900/297.htm]
+24. 中国信通院副院长王志勤：目前已经有 3000 多万的 5G-A 套餐用户 [URL:https://www.ithome.com/0/900/295.htm]
+25. 64GB 内存竟比 PS5 贵，Epic 斯威尼称内存涨价是高端游戏未来面临的“大问题” [URL:https://www.ithome.com/0/900/294.htm]
+26. 《CS2》布达佩斯 Major 第一阶段次日：LVG、RA 未尝胜绩，双双三败出局 [URL:https://www.ithome.com/0/900/293.htm]
+27. 索尼《死亡搁浅 2：冥滩之上》PC 版通过 ESRB 认证，分级 17+ [URL:https://www.ithome.com/0/900/292.htm]
+28. 探索宜居星球新见解，部分行星内部有“造水工厂” [URL:https://www.ithome.com/0/900/284.htm]
+29. 中山大学等十所高校联合倡议加快培养工业软件人才：华为等提供教学资源，年覆盖相关专业学生超万人 [URL:https://www.ithome.com/0/900/282.htm]
+30. OpenAI 否认怂恿 16 岁少年自杀：ChatGPT 曾提醒他 100 多次要向外界求助 [URL:https://www.ithome.com/0/900/281.htm]
+
+hackernews | Hacker News
+1. Show HN: KiDoom – Running DOOM on PCB Traces [URL:https://news.ycombinator.com/item?id=46051449]
+2. Brand New Layouts with CSS Subgrid [URL:https://news.ycombinator.com/item?id=46047053]
+3. Surprisingly, Emacs on Android is pretty good [URL:https://news.ycombinator.com/item?id=46021577]
+4. Space Truckin' – The Nostromo (2012) [URL:https://news.ycombinator.com/item?id=46053566]
+5. Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery [URL:https://news.ycombinator.com/item?id=46053385]
+6. A new bridge links the math of infinity to computer science [URL:https://news.ycombinator.com/item?id=46049932]
+7. Show HN: We built an open source, zero webhooks payment processor [URL:https://news.ycombinator.com/item?id=46048252]
+8. Trillions spent and big software projects are still failing [URL:https://news.ycombinator.com/item?id=46045085]
+9. The fall of Labubus and the mush of modern internet trends [URL:https://news.ycombinator.com/item?id=46028548]
+10. BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3) [URL:https://news.ycombinator.com/item?id=46053262]
+11. Google Antigravity exfiltrates data via indirect prompt injection attack [URL:https://news.ycombinator.com/item?id=46048996]
+12. Jakarta is now the biggest city in the world [URL:https://news.ycombinator.com/item?id=46042810]
+13. FLUX.2: Frontier Visual Intelligence [URL:https://news.ycombinator.com/item?id=46046916]
+14. Launch HN: Onyx (YC W24) – Open-source chat UI [URL:https://news.ycombinator.com/item?id=46045987]
+15. How to repurpose your old phone into a web server [URL:https://news.ycombinator.com/item?id=46016902]
+16. The myth of reflected power (2017) [URL:https://news.ycombinator.com/item?id=46053787]
+17. Space: 1999 – Special Effects Techniques [URL:https://news.ycombinator.com/item?id=46053017]
+18. The Bughouse Effect [URL:https://news.ycombinator.com/item?id=46049835]
+19. Reinventing how .NET builds and ships (again) [URL:https://news.ycombinator.com/item?id=46051691]
+20. Unifying our mobile and desktop domains [URL:https://news.ycombinator.com/item?id=46047958]
+21. CS234: Reinforcement Learning Winter 2025 [URL:https://news.ycombinator.com/item?id=46052685]
+22. 1,700-year-old Roman sarcophagus is unearthed in Budapest [URL:https://news.ycombinator.com/item?id=46040053]
+23. Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled [URL:https://news.ycombinator.com/item?id=46051340]
+24. Java Decompiler [URL:https://news.ycombinator.com/item?id=46016579]
+25. Ilya Sutskever: We're moving from the age of scaling to the age of research [URL:https://news.ycombinator.com/item?id=46048125]
+26. Notes on the Troubleshooting and Repair of Computer and Video Monitors [URL:https://news.ycombinator.com/item?id=46051724]
+27. Constant-time support coming to LLVM: Protecting cryptographic code [URL:https://news.ycombinator.com/item?id=46045385]
+28. Marble Springs (1993) [URL:https://news.ycombinator.com/item?id=45989947]
+29. The Definitive Classic Mac Pro (2006-2012) Upgrade Guide [URL:https://news.ycombinator.com/item?id=46020564]
+30. What they don't tell you about maintaining an open source project [URL:https://news.ycombinator.com/item?id=46051393]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
