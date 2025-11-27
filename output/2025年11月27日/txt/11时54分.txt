@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 纯电车秒变混动？吉利、雷诺合资浩思动力发布未来混动系统，2027 年正式推出 [URL:https://www.ithome.com/0/900/613.htm]
+2. 市场监管总局开展手机行业反不正当竞争合规指导，通报部分企业流量劫持、强制跳转、恶意不兼容等 [URL:https://www.ithome.com/0/900/612.htm]
+3. “死灵打印”技术首度亮相：蚊子口器变身高分辨率 3D 打印喷嘴 [URL:https://www.ithome.com/0/900/611.htm]
+4. 索尼 LYT901 传感器曝光，骁龙 8E5 超大杯主摄 [URL:https://www.ithome.com/0/900/610.htm]
+5. 欧洲议会通过新报告，呼吁禁止 16 岁以下未成年人未经许可使用社交媒体 [URL:https://www.ithome.com/0/900/609.htm]
+6. 韩国自研“世界”号运载火箭第四次发射取得成功 [URL:https://www.ithome.com/0/900/608.htm]
+7. 日本朝日集团控股：网络安全事件致近 200 万份个人信息面临泄露风险 [URL:https://www.ithome.com/0/900/606.htm]
+8. 谷歌安卓 16 新特性：记忆外接显示器偏好，自动切换“桌面”和“镜像” [URL:https://www.ithome.com/0/900/605.htm]
+9. 腾讯捐赠 1000 万港元，支援香港大埔火灾救援 [URL:https://www.ithome.com/0/900/604.htm]
+10. 欧洲 NCAP 十余年最大改革：真实道路辅助驾驶、实体按键、AEB 明年都要测 [URL:https://www.ithome.com/0/900/603.htm]
+11. 全球首个气溶胶-气象耦合预报人工智能模型试运行，大幅提升我国西北沙尘天气预报能力 [URL:https://www.ithome.com/0/900/602.htm]
+12. 曜越推出 TPM-O49CDQ 显示器：49" DQHD 240Hz 曲面 OLED 大屏 [URL:https://www.ithome.com/0/900/600.htm]
+13. 告别 45W：三星“超级快充 3.0”曝光，三星 Galaxy S26 Ultra 手机将首发 60W 充电 [URL:https://www.ithome.com/0/900/599.htm]
+14. 消息称三星 12 月 8 日启动 One UI 8.5 首轮 Beta 测试 [URL:https://www.ithome.com/0/900/598.htm]
+15. 商务部：拓展汽车改装、租赁、赛事、房车露营等汽车后市场，全链条扩大汽车消费 [URL:https://www.ithome.com/0/900/596.htm]
+16. 工信部副部长谢远生：我国消费品品种总量已达 2.3 亿种，家电、家具等 100 多个品类产量全球第一 [URL:https://www.ithome.com/0/900/595.htm]
+17. 三星 One UI 8.5 前瞻：基于安卓 16，引入情景感知 AI [URL:https://www.ithome.com/0/900/594.htm]
+18. vivo S50 系列手机侧边外观图公布：全系航空铝金属中框，全新纱缎光刻工艺 [URL:https://www.ithome.com/0/900/593.htm]
+19. 工信部：推动传统玩具文具和智能技术的深度融合，加强养老服务机器人研发 [URL:https://www.ithome.com/0/900/592.htm]
+20. 国家发改委：目前部分行业价格无序竞争问题仍然突出 [URL:https://www.ithome.com/0/900/591.htm]
+21. 发布 Gemini 3 后，谷歌 CEO 皮查伊希望自己和团队都能好好休息 [URL:https://www.ithome.com/0/900/590.htm]
+22. 微软推送 Win11 RP 26x00.7309 预览版：优化文件管理器深色模式等 [URL:https://www.ithome.com/0/900/589.htm]
+23. 历史性时刻，我国邮政行业收入首次超越电信行业 [URL:https://www.ithome.com/0/900/587.htm]
+24. 荣耀 500 系列手机开售：全系骁龙 8 系芯片、8000mAh 电池，2699 元起 [URL:https://www.ithome.com/0/900/584.htm]
+25. 鸿蒙智行发言人：近期识别到网上大量集中攻击，将坚决追究到底 [URL:https://www.ithome.com/0/900/583.htm]
+26. 【IT之家评测室】一加 Ace 6T 性能前瞻体验：165Hz 无限满帧，游戏爽玩又低温 [URL:https://www.ithome.com/0/900/582.htm]
+27. 微软称 Xbox 云游戏总时长同比暴涨 45% [URL:https://www.ithome.com/0/900/581.htm]
+28. 建兴储存科技推出大容量企业级 SATA 固态硬盘 ER4，随机读写性能业界领先 [URL:https://www.ithome.com/0/900/580.htm]
+29. 小米 Xiaomi HAD 增强版开启推送，官方提醒辅助驾驶不是自动驾驶 [URL:https://www.ithome.com/0/900/579.htm]
+30. vivo OriginOS 6 新一期公测开启报名，覆盖 14 款机型 [URL:https://www.ithome.com/0/900/578.htm]
+
+hackernews | Hacker News
+1. Migrating the Main Zig Repository from GitHub to Codeberg [URL:https://news.ycombinator.com/item?id=46064571]
+2. Bring Bathroom Doors Back to Hotels [URL:https://news.ycombinator.com/item?id=46063072]
+3. Voyager 1 is about to reach one light-day from Earth [URL:https://news.ycombinator.com/item?id=46057488]
+4. DIY NAS: 2026 Edition [URL:https://news.ycombinator.com/item?id=46065034]
+5. Running Unsupported iOS on Deprecated Devices [URL:https://news.ycombinator.com/item?id=46063272]
+6. S&box is now an open source game engine [URL:https://news.ycombinator.com/item?id=46061682]
+7. Penpot: The Open-Source Figma [URL:https://news.ycombinator.com/item?id=46064757]
+8. Gemini CLI Tips and Tricks for Agentic Coding [URL:https://news.ycombinator.com/item?id=46060508]
+9. A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards) [URL:https://news.ycombinator.com/item?id=46020193]
+10. The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop [URL:https://news.ycombinator.com/item?id=46062504]
+11. Fara-7B: An efficient agentic model for computer use [URL:https://news.ycombinator.com/item?id=46061208]
+12. Comic Code Reviews [URL:https://news.ycombinator.com/item?id=45998392]
+13. Alan.app – Add a Border to macOS Active Window [URL:https://news.ycombinator.com/item?id=46061239]
+14. A woman on a mission to photograph every species of hummingbird [URL:https://news.ycombinator.com/item?id=46017830]
+15. How Does Microwaving Grapes Create Plumes of Plasma? [URL:https://news.ycombinator.com/item?id=46030325]
+16. A cell so minimal that it challenges definitions of life [URL:https://news.ycombinator.com/item?id=46055935]
+17. Show HN: Safe-NPM – only install packages that are +90 days old [URL:https://news.ycombinator.com/item?id=46027878]
+18. Cardiac implantable electronic devices' longevity: A novel modelling tool [URL:https://news.ycombinator.com/item?id=46018226]
+19. Statistical Process Control in Python [URL:https://news.ycombinator.com/item?id=46055421]
+20. AdBlock and Signal are for terrorists, according to French govt (2023) [video] [URL:https://news.ycombinator.com/item?id=46063915]
+21. Show HN: I turned algae into a bio-altimeter and put it on a weather balloon [URL:https://news.ycombinator.com/item?id=46016288]
+22. bonsai_term: A library for building dynamic terminal apps by Jane Street [URL:https://news.ycombinator.com/item?id=46064367]
+23. Don't Download Apps [URL:https://news.ycombinator.com/item?id=46061623]
+24. Show HN: KiDoom – Running DOOM on PCB Traces [URL:https://news.ycombinator.com/item?id=46051449]
+25. Compressed filesystems à la language models [URL:https://news.ycombinator.com/item?id=46058033]
+26. Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs” [URL:https://news.ycombinator.com/item?id=46063531]
+27. Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng [URL:https://news.ycombinator.com/item?id=46059620]
+28. DSP 101 Part 1: An Introductory Course in DSP System Design [URL:https://news.ycombinator.com/item?id=46064065]
+29. Surprisingly, Emacs on Android is pretty good [URL:https://news.ycombinator.com/item?id=46021577]
+30. A lightweight code editor with Vim mode, Git integration, and more [URL:https://news.ycombinator.com/item?id=46021356]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
