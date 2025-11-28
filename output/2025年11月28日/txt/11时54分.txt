@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 俄罗斯“联盟-5 号”火箭下月首飞，第一级发动机实现完全国产化 [URL:https://www.ithome.com/0/900/942.htm]
+2. Pulsar 派世推出李小龙诞辰 85 周年纪念系列外设，蓝白配色 [URL:https://www.ithome.com/0/900/941.htm]
+3. 北京将建“太空数据中心”，首颗算力试验卫星“辰光一号”即将发射 [URL:https://www.ithome.com/0/900/940.htm]
+4. AI 算力太“渴”，水资源危机让马来西亚被迫叫停低能效数据中心 [URL:https://www.ithome.com/0/900/939.htm]
+5. 红魔 11 Air 证件照公布：搭载高通骁龙 8 至尊版、6.85 英寸直屏、7000mAh 电池 [URL:https://www.ithome.com/0/900/938.htm]
+6. 中通快递集团捐款 1000 万港元，驰援香港大埔救灾重建工作 [URL:https://www.ithome.com/0/900/924.htm]
+7. 欧空局史上最大拨款：221 亿欧元预算铺平登月路，德、法、意锁定宇航员席位 [URL:https://www.ithome.com/0/900/921.htm]
+8. Omdia：中国大陆 2025Q2 云基础设施服务市场同比增长 21%，达 124 亿美元 [URL:https://www.ithome.com/0/900/920.htm]
+9. 北京出新规：快递外卖用车将发放专用号牌，驾驶非机动车不得看手机打电话 [URL:https://www.ithome.com/0/900/919.htm]
+10. 知情人士否认 AMD B650 芯片组停产，实为减产与主板厂商销售策略调整 [URL:https://www.ithome.com/0/900/918.htm]
+11. vivo S50 Pro mini 手机后盖公布：横向相机设计、6.31 英寸小直屏 [URL:https://www.ithome.com/0/900/917.htm]
+12. 消息称铠侠、闪迪考虑在美合作建设 NAND 晶圆厂 [URL:https://www.ithome.com/0/900/915.htm]
+13. 微软确认 Win11 九月可选更新开始，部分 FIDO2 密钥将被强制设 PIN 码 [URL:https://www.ithome.com/0/900/914.htm]
+14. 陕西省阿里小号 12 月 27 日结束服务并下线，对应号码将回收 [URL:https://www.ithome.com/0/900/913.htm]
+15. OPPO 捐款 1000 万港元，支持香港大埔救灾及灾后重建工作 [URL:https://www.ithome.com/0/900/912.htm]
+16. 荣耀 MagicOS 10.0 升级 LHDC 5.0 蓝牙音频编码机型公布 [URL:https://www.ithome.com/0/900/911.htm]
+17. 空客去微软 Office 化遇阻：7 年仍未完成，财务部成“钉子户” [URL:https://www.ithome.com/0/900/909.htm]
+18. 盘兴高铁今日正式通车，贵州实现“市市通高铁” [URL:https://www.ithome.com/0/900/904.htm]
+19. 中国企业在越南市场取得突破，消息称华为、中兴已获得一系列 5G 设备合同 [URL:https://www.ithome.com/0/900/903.htm]
+20. 物理版“Debugging”：美国维修店拆解 PS5 出现活体蟑螂窝 [URL:https://www.ithome.com/0/900/902.htm]
+21. 欧盟新规：网络平台与支付商须承担更严格反诈责任，受害消费者可获赔偿 [URL:https://www.ithome.com/0/900/901.htm]
+22. 台积电展望定制版 HBM4E 内存：N3P 制程基础裸片集成内存控制器 [URL:https://www.ithome.com/0/900/899.htm]
+23. 微软称 Edge 浏览器和 Win11 用户渴望 AI 办公，用户回怼称你听错了 [URL:https://www.ithome.com/0/900/898.htm]
+24. 小米 17 Ultra 专属摄影手柄通过 3C 认证，可以当移动电源 [URL:https://www.ithome.com/0/900/896.htm]
+25. 智界汽车 11 月交付破万：连续 2 个月交付过万，连续 3 个月大定破万 [URL:https://www.ithome.com/0/900/895.htm]
+26. 凯华发布新款机械矮轴 —— 紫鸢轴：POM 轴芯，0.8mm 短触发行程 [URL:https://www.ithome.com/0/900/894.htm]
+27. 网易《逆水寒》手游 3.2.2 版本联动安塞腰鼓，全新剧情预告发布 [URL:https://www.ithome.com/0/900/893.htm]
+28. 腾讯 QQ 鸿蒙版 App 获 9.1.95 邀测升级：新增网页唤起授权登录，撤回消息支持编辑 [URL:https://www.ithome.com/0/900/892.htm]
+29. 凌华上线至强 600 工作站处理器服务器，W890 主板外观首次确认 [URL:https://www.ithome.com/0/900/891.htm]
+30. 成本超支致重组：波音无襟翼飞机 X-65 首飞推迟至 2027 年 [URL:https://www.ithome.com/0/900/890.htm]
+
+hackernews | Hacker News
+1. How Charles M Schulz created Charlie Brown and Snoopy (2024) [URL:https://news.ycombinator.com/item?id=46074362]
+2. Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 [URL:https://news.ycombinator.com/item?id=46070668]
+3. 250MWh 'Sand Battery' to start construction in Finland [URL:https://news.ycombinator.com/item?id=46073855]
+4. A programmer-friendly I/O abstraction over io_uring and kqueue (2022) [URL:https://news.ycombinator.com/item?id=46073817]
+5. Physicists drive antihydrogen breakthrough at CERN [URL:https://news.ycombinator.com/item?id=46018159]
+6. Vsora Jotunn-8 5nm European inference chip [URL:https://news.ycombinator.com/item?id=46074111]
+7. Quake Engine Indicators [URL:https://news.ycombinator.com/item?id=46031552]
+8. Feedback doesn't scale [URL:https://news.ycombinator.com/item?id=46058471]
+9. Memories of .us [URL:https://news.ycombinator.com/item?id=46057266]
+10. Linux Kernel Explorer [URL:https://news.ycombinator.com/item?id=46066280]
+11. Underrated reasons to be thankful V [URL:https://news.ycombinator.com/item?id=46073033]
+12. Tell HN: Happy Thanksgiving [URL:https://news.ycombinator.com/item?id=46065955]
+13. Indie, alone, and figuring it out [URL:https://news.ycombinator.com/item?id=46024302]
+14. DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf] [URL:https://news.ycombinator.com/item?id=46072786]
+15. Maxduino Review: Tape Cassette Emulator for Multiple Retro Computers [URL:https://news.ycombinator.com/item?id=46035819]
+16. Giving the Jakks Atari Paddle a Spin [URL:https://news.ycombinator.com/item?id=46027065]
+17. TPUs vs. GPUs and why Google is positioned to win AI race in the long term [URL:https://news.ycombinator.com/item?id=46069048]
+18. DIY NAS: 2026 Edition [URL:https://news.ycombinator.com/item?id=46065034]
+19. GitLab discovers widespread NPM supply chain attack [URL:https://news.ycombinator.com/item?id=46070203]
+20. Mixpanel Security Breach [URL:https://news.ycombinator.com/item?id=46066522]
+21. Bird flu viruses are resistant to fever, making them a major threat to humans [URL:https://news.ycombinator.com/item?id=46074286]
+22. The VPN panic is only getting started [URL:https://news.ycombinator.com/item?id=46075178]
+23. Inspired by Spider-Man, scientists recreate web-slinging technology [URL:https://news.ycombinator.com/item?id=46061871]
+24. Coq: The World's Best Macro Assembler? (2013) [pdf] [URL:https://news.ycombinator.com/item?id=46065698]
+25. Ray Marching Soft Shadows in 2D (2020) [URL:https://news.ycombinator.com/item?id=46066695]
+26. Music eases surgery and speeds recovery, study finds [URL:https://news.ycombinator.com/item?id=46065817]
+27. A Camera of Miroslav Tichý [URL:https://news.ycombinator.com/item?id=46022059]
+28. Penpot: The Open-Source Figma [URL:https://news.ycombinator.com/item?id=46064757]
+29. The current state of the theory that GPL propagates to AI models [URL:https://news.ycombinator.com/item?id=46068777]
+30. Interactive λ-Reduction [URL:https://news.ycombinator.com/item?id=46039106]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
