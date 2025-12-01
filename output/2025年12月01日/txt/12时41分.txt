@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 内存价格飙升冲击 PC 硬件市场，消息称主板销量同比大跌 40% 至 50% [URL:https://www.ithome.com/0/901/516.htm]
+2. 新加坡明年起禁止中学生校内使用智能手机和智能手表 [URL:https://www.ithome.com/0/901/511.htm]
+3. 定名“领航者”：我国首艘火箭网系回收海上平台命名交付 [URL:https://www.ithome.com/0/901/509.htm]
+4. 中国音乐著作权协会与腾讯音乐娱乐集团达成音乐著作权战略合作 [URL:https://www.ithome.com/0/901/508.htm]
+5. 法拉第未来贾跃亭：未来五年努力实现预计 40-50 万台的产销目标 [URL:https://www.ithome.com/0/901/503.htm]
+6. 联合创新推出“第二代视网膜屏”显示器，宣称视觉体验“媲美苹果原厂显示器” [URL:https://www.ithome.com/0/901/502.htm]
+7. 神 22 乘组在序列中永远空缺，下一个乘组将被命名为神 23 乘组 [URL:https://www.ithome.com/0/901/501.htm]
+8. 努比亚 M153 豆包手机助手详细规格公布：骁龙 8 至尊版芯片，6.78 英寸 LTPO 显示屏 [URL:https://www.ithome.com/0/901/499.htm]
+9. 顺丰推出“超时赔付”服务：成本由公司承担，快递员无需承担 [URL:https://www.ithome.com/0/901/486.htm]
+10. 3999 元：HKC 领航 M8 显示器开启预售，4K 160Hz/1080P 320Hz 双模 Mini LED 面板 [URL:https://www.ithome.com/0/901/481.htm]
+11. realme 新机首曝，预计为真我 15 Pro《权力的游戏》限定版 [URL:https://www.ithome.com/0/901/480.htm]
+12. 售 77.8 万元起，新款雷克萨斯 GX 上市 [URL:https://www.ithome.com/0/901/479.htm]
+13. 撼讯 PowerColor 显卡个人送保服务自今日起正式上线 [URL:https://www.ithome.com/0/901/478.htm]
+14. 27" QHD 540Hz OLED 新选择，优派上线 XG273F-2K-OLED 显示器 [URL:https://www.ithome.com/0/901/477.htm]
+15. 缺乏端到端加密机制，瑞士建议政府部门避免使用 Microsoft 365 等“软件即服务”生态 [URL:https://www.ithome.com/0/901/476.htm]
+16. 单月历史新高：鸿蒙智行全系车型 11 月交付新车 81864 台，同比增长 89.61% [URL:https://www.ithome.com/0/901/474.htm]
+17. 首次内地院线上映：周星驰经典喜剧《鹿鼎记》4K 修复版定档 12 月 5 日 [URL:https://www.ithome.com/0/901/472.htm]
+18. 豆包手机助手发布技术预览版，可在工程样机努比亚 M153 上体验 [URL:https://www.ithome.com/0/901/471.htm]
+19. 岚图追光 L 豪华轿车定档 12 月 10 日“压轴上市” [URL:https://www.ithome.com/0/901/470.htm]
+20. 英特尔 Wildcat Lake 处理器被曝有 Refresh 版，新增 4P + 4LPE 配置 [URL:https://www.ithome.com/0/901/469.htm]
+21. 我国绿氢年产能超 22 万吨，多项技术指标居全球首位 [URL:https://www.ithome.com/0/901/468.htm]
+22. 2025 年 11 月汽车销量 / 交付汇总：鸿蒙智行 11 月全系车型交付新车 81864 台，创单月交付历史新高 [URL:https://www.ithome.com/0/901/448.htm]
+23. 《CS2》布达佩斯 Major 二阶段：TYLOO 暂居 1-2，Faze、NAVI 率先晋级 [URL:https://www.ithome.com/0/901/465.htm]
+24. 599 元起：雷神首款 AI 眼镜 Aura 悦享版 开启首销，可选四类镜框 [URL:https://www.ithome.com/0/901/464.htm]
+25. 小米汽车“现车选购”即将开启：通过严格质检，可享快速提车 [URL:https://www.ithome.com/0/901/463.htm]
+26. 华为鸿蒙 HarmonyOS 6.0.0.115 SP16 版本开推，首批适配机型含 nova 14、Pura 80 系列等 [URL:https://www.ithome.com/0/901/461.htm]
+27. 消息称某厂超大杯手机本月亮相：搭载全新徕卡镀膜，预计为小米 17 Ultra [URL:https://www.ithome.com/0/901/460.htm]
+28. 中国战队无一晋级 BLAST DOTA 大满贯赛成都站线下阶段 [URL:https://www.ithome.com/0/901/458.htm]
+29. 水流过就有电，科学家研发新型纳米发电机 [URL:https://www.ithome.com/0/901/456.htm]
+30. 豪威发布 OVB0D 手机 CMOS 传感器：2 亿像素、1/1.11 英寸，二代 DCG + LOFIC [URL:https://www.ithome.com/0/901/455.htm]
+
+hackernews | Hacker News
+1. A Love Letter to FreeBSD [URL:https://news.ycombinator.com/item?id=46100892]
+2. Advent of Sysadmin 2025 [URL:https://news.ycombinator.com/item?id=46102347]
+3. Algorithms for Optimization [pdf] [URL:https://news.ycombinator.com/item?id=46101492]
+4. Writing a good Claude.md [URL:https://news.ycombinator.com/item?id=46098838]
+5. Advent of Code 2025 [URL:https://news.ycombinator.com/item?id=46096337]
+6. Windows drive letters are not limited to A-Z [URL:https://news.ycombinator.com/item?id=46096556]
+7. Bricklink suspends Marketplace operations in 35 countries [URL:https://news.ycombinator.com/item?id=46101263]
+8. Migrating Dillo from GitHub [URL:https://news.ycombinator.com/item?id=46096800]
+9. GitHub to Codeberg: my experience [URL:https://news.ycombinator.com/item?id=46097829]
+10. LLVM-MOS – Clang LLVM fork targeting the 6502 [URL:https://news.ycombinator.com/item?id=46098359]
+11. Is America's jobs market nearing a cliff? [URL:https://news.ycombinator.com/item?id=46102202]
+12. Seeing a Molecule's Quantum Shadow [URL:https://news.ycombinator.com/item?id=46041253]
+13. Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022) [URL:https://news.ycombinator.com/item?id=46099108]
+14. ESA Sentinel-1D delivers first high-resolution images [URL:https://news.ycombinator.com/item?id=46098673]
+15. ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025 [URL:https://news.ycombinator.com/item?id=46098747]
+16. How to run phones while being struck by suicide drones [URL:https://news.ycombinator.com/item?id=46100282]
+17. Stereo Images of Giant Galaxies [URL:https://news.ycombinator.com/item?id=46042145]
+18. AI just proved Erdos Problem #124 [URL:https://news.ycombinator.com/item?id=46094037]
+19. Replacing My Window Manager with Google Chrome [URL:https://news.ycombinator.com/item?id=46072521]
+20. Show HN: Fixing Google Nano Banana Pixel Art with Rust [URL:https://news.ycombinator.com/item?id=46058566]
+21. The Thinking Game Film – Google DeepMind documentary [URL:https://news.ycombinator.com/item?id=46097773]
+22. “Boobs check” – Technique to verify if sites behind CDN are hosted in Iran [URL:https://news.ycombinator.com/item?id=46100323]
+23. Hacking on the ReMarkable 2 [URL:https://news.ycombinator.com/item?id=46099997]
+24. RetailReady (YC W24) Is Hiring Associate Product Manager [URL:https://news.ycombinator.com/item?id=46098336]
+25. There is No Quintic Formula [video] [URL:https://news.ycombinator.com/item?id=46098979]
+26. Langjam Gamejam: Build a programming language then make a game with it [URL:https://news.ycombinator.com/item?id=46097671]
+27. Paul Hegarty's updated CS193p SwiftUI course released by Stanford [URL:https://news.ycombinator.com/item?id=46051422]
+28. Mike Gordon and hardware verification (2023) [URL:https://news.ycombinator.com/item?id=46034024]
+29. Malware embedded into audio driver is silently recording from system mic [URL:https://news.ycombinator.com/item?id=46102167]
+30. What's Hiding Inside Haribo's Power Bank and Headphones? [URL:https://news.ycombinator.com/item?id=46071317]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
