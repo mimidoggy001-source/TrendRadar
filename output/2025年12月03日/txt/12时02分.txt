@@ -1,0 +1,77 @@
+ithome | IT之家
+1. 七彩虹青羽 98 键盘升级 Ultra 磁轴版：0.005mm RT、双 8kHz 回报率 [URL:https://www.ithome.com/0/902/084.htm]
+2. 外媒模拟 Steam Machine 配置游戏测试：8GB 显存拖后腿 [URL:https://www.ithome.com/0/902/083.htm]
+3. 马来西亚交通部：马航 MH370 航班客机残骸搜寻将于 12 月 30 日重启 [URL:https://www.ithome.com/0/902/082.htm]
+4. 瞳行科技发布国内首款 AI 助盲眼镜，基于阿里通义千问打造 [URL:https://www.ithome.com/0/902/077.htm]
+5. 魅族员工：任何试图通过自然语言「模拟点击」方式操作微信都是高压线，会喜提账号冻结 [URL:https://www.ithome.com/0/902/076.htm]
+6. 三星 Exynos 2600 芯片正式公布，Galaxy S26 系列手机首发搭载 [URL:https://www.ithome.com/0/902/072.htm]
+7. 谁来造月球车：三强争霸，美国宇航局预算紧张恐只有一席 [URL:https://www.ithome.com/0/902/071.htm]
+8. AMD 确认 EPYC Embedded 2005 系列嵌入式处理器，与 "Zen 5" HX 同源 [URL:https://www.ithome.com/0/902/070.htm]
+9. 小鹏 AI 天玑 XOS 5.8.5 全量推送，新增车位到车位焕新版、vivo 手机镜像等功能 [URL:https://www.ithome.com/0/902/069.htm]
+10. 每本书最高赔 15 万美元：OpenAI 涉嫌“恶意侵权”恐面临天价罚款 [URL:https://www.ithome.com/0/902/068.htm]
+11. 飞傲雪漫天 Echo Nano 播放器曝光：口袋里的 Hi-Fi，致敬 iPod Shuffle [URL:https://www.ithome.com/0/902/067.htm]
+12. 台积电申请台南科学工业园区特定区用地，消息称将建设一座 2nm 晶圆厂 [URL:https://www.ithome.com/0/902/065.htm]
+13. 开售仅三天，消息称“豆包助手”手机出现微信被动下线问题 [URL:https://www.ithome.com/0/902/064.htm]
+14. 消息称英特尔、AMD 均不会在 2026 年推出新的台式机用平台 [URL:https://www.ithome.com/0/902/063.htm]
+15. Claude AI 的“价值观”排序首次公开：安全第一，帮助用户排第四 [URL:https://www.ithome.com/0/902/062.htm]
+16. 乐道 L60 黑骑士特别版汽车首次亮相：12 月 5 日上市即交付，限量 666 台 [URL:https://www.ithome.com/0/902/061.htm]
+17. 强制手机预装网络安全应用引争议，印度回应称用户可自行卸载 [URL:https://www.ithome.com/0/902/060.htm]
+18. realme 真我 15 Pro《权力的游戏》限定版手机 12 月 8 日发售，全球首创热感变色设计 [URL:https://www.ithome.com/0/902/058.htm]
+19. 谷歌 AI 编程工具曝出严重 BUG：一键执行，整个 D 盘被清空 [URL:https://www.ithome.com/0/902/057.htm]
+20. 我国汽车转向新国标发布：支持线控转向，删除机械连接强制要求 [URL:https://www.ithome.com/0/902/056.htm]
+21. 微软悄然修复 Win11 高危 LNK 漏洞，曾拒绝承认其风险 [URL:https://www.ithome.com/0/902/053.htm]
+22. 国家网络安全通报中心通报一批境外恶意网址和恶意 IP [URL:https://www.ithome.com/0/902/048.htm]
+23. 长城推出 SPARK S8 电源：为中高端 80 PLUS 金牌产品引入氮化镓 GaN [URL:https://www.ithome.com/0/902/045.htm]
+24. 小米汽车「现车选购」功能开放，部分车型 12 月 26 日前锁单预计年底前交付 [URL:https://www.ithome.com/0/902/043.htm]
+25. 154GB → 23GB：PC 版《绝地潜兵 2》移除优化 HDD 技术，游戏体积瘦身约 85% [URL:https://www.ithome.com/0/902/042.htm]
+26. 550 亿美元交易完成后，沙特阿拉伯将持有 EA 公司 93% 的股份 [URL:https://www.ithome.com/0/902/041.htm]
+27. HPE 携手博通推出 AMD "Helios" AI 机架，搭载业界首创纵向扩展以太网 [URL:https://www.ithome.com/0/902/037.htm]
+28. 安全警报“失联”，微软 Defender XDR 服务昨日全球宕机约 2 小时 [URL:https://www.ithome.com/0/902/036.htm]
+29. 苹果新研究：AI 可从 Apple Watch 光学传感器中挖掘更深入的心脏健康数据 [URL:https://www.ithome.com/0/902/035.htm]
+30. 你的安卓手机需升级，谷歌 12 月更新修复 107 个安全漏洞 [URL:https://www.ithome.com/0/902/034.htm]
+
+hackernews | Hacker News
+1. Anthropic acquires Bun [URL:https://news.ycombinator.com/item?id=46124267]
+2. IBM CEO says there is 'no way' spending on AI data centers will pay off [URL:https://news.ycombinator.com/item?id=46124324]
+3. Paged Out [URL:https://news.ycombinator.com/item?id=46126217]
+4. I designed and printed a custom nose guard to help my dog with DLE [URL:https://news.ycombinator.com/item?id=46094460]
+5. OpenAI declares 'code red' as Google catches up in AI race [URL:https://news.ycombinator.com/item?id=46121870]
+6. DOOM could have had PC Speaker Music [URL:https://news.ycombinator.com/item?id=46128286]
+7. Amazon launches Trainium3 [URL:https://news.ycombinator.com/item?id=46125155]
+8. Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera [URL:https://news.ycombinator.com/item?id=46129476]
+9. Qwen3-VL can scan two-hour videos and pinpoint nearly every detail [URL:https://news.ycombinator.com/item?id=46094606]
+10. Learning music with Strudel [URL:https://news.ycombinator.com/item?id=46052478]
+11. Free static site generator for small restaurants and cafes [URL:https://news.ycombinator.com/item?id=46126141]
+12. All about automotive lidar [URL:https://news.ycombinator.com/item?id=46110395]
+13. Zig's new plan for asynchronous programs [URL:https://news.ycombinator.com/item?id=46121539]
+14. School cell phone bans and student achievement [URL:https://news.ycombinator.com/item?id=46124179]
+15. Ecosia: The greenest AI is here [URL:https://news.ycombinator.com/item?id=46126964]
+16. 100k TPS over a billion rows: the unreasonable effectiveness of SQLite [URL:https://news.ycombinator.com/item?id=46124205]
+17. Practical Intro to Operational Transformation [URL:https://news.ycombinator.com/item?id=46056181]
+18. Exploring Large HTML Documents on the Web [URL:https://news.ycombinator.com/item?id=46127868]
+19. Delty (YC X25) Is Hiring [URL:https://news.ycombinator.com/item?id=46126822]
+20. Counter Galois Onion: Improved encryption for Tor circuit traffic [URL:https://news.ycombinator.com/item?id=46050624]
+21. YesNotice [URL:https://news.ycombinator.com/item?id=46047170]
+22. Advent of Compiler Optimisations 2025 [URL:https://news.ycombinator.com/item?id=46119500]
+23. StutterZero: Speech Conversion for Stuttering Transcription and Correction [URL:https://news.ycombinator.com/item?id=46054026]
+24. Load ZX Spectrum – first Museum dedicated to our first personal computer [URL:https://news.ycombinator.com/item?id=46061133]
+25. Mistral 3 family of models released [URL:https://news.ycombinator.com/item?id=46121889]
+26. Python Data Science Handbook [URL:https://news.ycombinator.com/item?id=46120611]
+27. Addressing the adding situation [URL:https://news.ycombinator.com/item?id=46120181]
+28. Cursed circuits: charge pump voltage halver [URL:https://news.ycombinator.com/item?id=46124892]
+29. AI generated font using Nano Banana [URL:https://news.ycombinator.com/item?id=46127400]
+30. A series of vignettes from my childhood and early career [URL:https://news.ycombinator.com/item?id=46120549]
+
+==== 以下ID请求失败 ====
+36kr
+huxiu
+techcrunch
+theverge
+engadget
+wired
+ars
+tomsguide
+polygon
+gamespot
+ign
+bloomberg_tech
